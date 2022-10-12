@@ -1,38 +1,14 @@
 {
   "/": {
     "title": "Hacking Attention",
-    "content": "\nHello hello!\n\n[[a]] \n[[b]]\n[[c]]\n[d](d)\n[c](c.md)\n\nSo [[this]]",
-    "lastmodified": "2022-10-12T20:28:06.2050937+05:30",
+    "content": "\n[[wikilink without page]]\n[[wikilink with page]]\n[md link without page]()\n[mdlink with page](mdlink)",
+    "lastmodified": "2022-10-12T20:40:07.8149493+05:30",
     "tags": null
   },
-  "/a": {
-    "title": "a",
-    "content": "[[b]]\n\n[[c]]\n\n[[_index]]",
-    "lastmodified": "2022-10-12T19:56:18.2939161+05:30",
-    "tags": null
-  },
-  "/abcd": {
-    "title": "abcd",
+  "/mdlink": {
+    "title": "mdlink",
     "content": "",
-    "lastmodified": "2022-10-12T20:33:33.7744314+05:30",
-    "tags": null
-  },
-  "/b": {
-    "title": "b",
-    "content": "[[a]]\n\n[[c]]\n\n[[_index]]",
-    "lastmodified": "2022-10-12T19:56:35.9152999+05:30",
-    "tags": null
-  },
-  "/c": {
-    "title": "c",
-    "content": "[[_index]]\n\n[[a]]",
-    "lastmodified": "2022-10-12T19:56:44.7024245+05:30",
-    "tags": null
-  },
-  "/d": {
-    "title": "d",
-    "content": "[a](a.md)\n\n[[asdf]]\n\n[asdfd]()\n[[asdf]][sdfdsf]()\n\n[abcd](abcd.md)\n\n[a](a.md)\n\n[[this is a plain unclicked wikilink]]\n[this is a unclicked markdown link]()\n\n[[this is aclicked wikilink]]\n\n[this is a clicked markdown link]()",
-    "lastmodified": "2022-10-12T20:33:19.5115042+05:30",
+    "lastmodified": "2022-10-12T20:40:39.4480638+05:30",
     "tags": null
   },
   "/templates/post": {
@@ -41,10 +17,10 @@
     "lastmodified": "2022-10-12T19:52:21.4505734+05:30",
     "tags": null
   },
-  "/this-is-aclicked-wikilink": {
-    "title": "this is aclicked wikilink",
+  "/wikilink-with-page": {
+    "title": "wikilink with page",
     "content": "",
-    "lastmodified": "2022-10-12T20:33:31.4337022+05:30",
+    "lastmodified": "2022-10-12T20:40:20.6225634+05:30",
     "tags": null
   }
 }

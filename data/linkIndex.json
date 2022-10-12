@@ -4,285 +4,53 @@
       "/": [
         {
           "source": "/",
-          "target": "/a",
-          "text": "a"
+          "target": "/wikilink-without-page",
+          "text": "wikilink without page"
         },
         {
           "source": "/",
-          "target": "/b",
-          "text": "b"
+          "target": "/wikilink-with-page",
+          "text": "wikilink with page"
         },
         {
           "source": "/",
-          "target": "/c",
-          "text": "c"
-        },
-        {
-          "source": "/",
-          "target": "/d",
-          "text": "d"
-        },
-        {
-          "source": "/",
-          "target": "/c",
-          "text": "c"
-        },
-        {
-          "source": "/",
-          "target": "/this",
-          "text": "this"
-        }
-      ],
-      "/a": [
-        {
-          "source": "/a",
-          "target": "/b",
-          "text": "b"
-        },
-        {
-          "source": "/a",
-          "target": "/c",
-          "text": "c"
-        },
-        {
-          "source": "/a",
-          "target": "/_index",
-          "text": "_index"
-        }
-      ],
-      "/b": [
-        {
-          "source": "/b",
-          "target": "/a",
-          "text": "a"
-        },
-        {
-          "source": "/b",
-          "target": "/c",
-          "text": "c"
-        },
-        {
-          "source": "/b",
-          "target": "/_index",
-          "text": "_index"
-        }
-      ],
-      "/c": [
-        {
-          "source": "/c",
-          "target": "/_index",
-          "text": "_index"
-        },
-        {
-          "source": "/c",
-          "target": "/a",
-          "text": "a"
-        }
-      ],
-      "/d": [
-        {
-          "source": "/d",
-          "target": "/a",
-          "text": "a"
-        },
-        {
-          "source": "/d",
-          "target": "/asdf",
-          "text": "asdf"
-        },
-        {
-          "source": "/d",
           "target": "/",
-          "text": "asdfd"
+          "text": "md link without page"
         },
         {
-          "source": "/d",
-          "target": "/asdf",
-          "text": "asdf"
-        },
-        {
-          "source": "/d",
-          "target": "/",
-          "text": "sdfdsf"
-        },
-        {
-          "source": "/d",
-          "target": "/abcd",
-          "text": "abcd"
-        },
-        {
-          "source": "/d",
-          "target": "/a",
-          "text": "a"
-        },
-        {
-          "source": "/d",
-          "target": "/this-is-a-plain-unclicked-wikilink",
-          "text": "this is a plain unclicked wikilink"
-        },
-        {
-          "source": "/d",
-          "target": "/",
-          "text": "this is a unclicked markdown link"
-        },
-        {
-          "source": "/d",
-          "target": "/this-is-aclicked-wikilink",
-          "text": "this is aclicked wikilink"
-        },
-        {
-          "source": "/d",
-          "target": "/",
-          "text": "this is a clicked markdown link"
+          "source": "/",
+          "target": "/mdlink",
+          "text": "mdlink with page"
         }
       ]
     },
     "backlinks": {
       "/": [
         {
-          "source": "/d",
+          "source": "/",
           "target": "/",
-          "text": "asdfd"
-        },
-        {
-          "source": "/d",
-          "target": "/",
-          "text": "sdfdsf"
-        },
-        {
-          "source": "/d",
-          "target": "/",
-          "text": "this is a unclicked markdown link"
-        },
-        {
-          "source": "/d",
-          "target": "/",
-          "text": "this is a clicked markdown link"
+          "text": "md link without page"
         }
       ],
-      "/_index": [
-        {
-          "source": "/a",
-          "target": "/_index",
-          "text": "_index"
-        },
-        {
-          "source": "/b",
-          "target": "/_index",
-          "text": "_index"
-        },
-        {
-          "source": "/c",
-          "target": "/_index",
-          "text": "_index"
-        }
-      ],
-      "/a": [
+      "/mdlink": [
         {
           "source": "/",
-          "target": "/a",
-          "text": "a"
-        },
-        {
-          "source": "/b",
-          "target": "/a",
-          "text": "a"
-        },
-        {
-          "source": "/c",
-          "target": "/a",
-          "text": "a"
-        },
-        {
-          "source": "/d",
-          "target": "/a",
-          "text": "a"
-        },
-        {
-          "source": "/d",
-          "target": "/a",
-          "text": "a"
+          "target": "/mdlink",
+          "text": "mdlink with page"
         }
       ],
-      "/abcd": [
-        {
-          "source": "/d",
-          "target": "/abcd",
-          "text": "abcd"
-        }
-      ],
-      "/asdf": [
-        {
-          "source": "/d",
-          "target": "/asdf",
-          "text": "asdf"
-        },
-        {
-          "source": "/d",
-          "target": "/asdf",
-          "text": "asdf"
-        }
-      ],
-      "/b": [
+      "/wikilink-with-page": [
         {
           "source": "/",
-          "target": "/b",
-          "text": "b"
-        },
-        {
-          "source": "/a",
-          "target": "/b",
-          "text": "b"
+          "target": "/wikilink-with-page",
+          "text": "wikilink with page"
         }
       ],
-      "/c": [
+      "/wikilink-without-page": [
         {
           "source": "/",
-          "target": "/c",
-          "text": "c"
-        },
-        {
-          "source": "/",
-          "target": "/c",
-          "text": "c"
-        },
-        {
-          "source": "/a",
-          "target": "/c",
-          "text": "c"
-        },
-        {
-          "source": "/b",
-          "target": "/c",
-          "text": "c"
-        }
-      ],
-      "/d": [
-        {
-          "source": "/",
-          "target": "/d",
-          "text": "d"
-        }
-      ],
-      "/this": [
-        {
-          "source": "/",
-          "target": "/this",
-          "text": "this"
-        }
-      ],
-      "/this-is-a-plain-unclicked-wikilink": [
-        {
-          "source": "/d",
-          "target": "/this-is-a-plain-unclicked-wikilink",
-          "text": "this is a plain unclicked wikilink"
-        }
-      ],
-      "/this-is-aclicked-wikilink": [
-        {
-          "source": "/d",
-          "target": "/this-is-aclicked-wikilink",
-          "text": "this is aclicked wikilink"
+          "target": "/wikilink-without-page",
+          "text": "wikilink without page"
         }
       ]
     }
@@ -290,128 +58,23 @@
   "links": [
     {
       "source": "/",
-      "target": "/a",
-      "text": "a"
+      "target": "/wikilink-without-page",
+      "text": "wikilink without page"
     },
     {
       "source": "/",
-      "target": "/b",
-      "text": "b"
+      "target": "/wikilink-with-page",
+      "text": "wikilink with page"
     },
     {
       "source": "/",
-      "target": "/c",
-      "text": "c"
-    },
-    {
-      "source": "/",
-      "target": "/d",
-      "text": "d"
-    },
-    {
-      "source": "/",
-      "target": "/c",
-      "text": "c"
-    },
-    {
-      "source": "/",
-      "target": "/this",
-      "text": "this"
-    },
-    {
-      "source": "/a",
-      "target": "/b",
-      "text": "b"
-    },
-    {
-      "source": "/a",
-      "target": "/c",
-      "text": "c"
-    },
-    {
-      "source": "/a",
-      "target": "/_index",
-      "text": "_index"
-    },
-    {
-      "source": "/b",
-      "target": "/a",
-      "text": "a"
-    },
-    {
-      "source": "/b",
-      "target": "/c",
-      "text": "c"
-    },
-    {
-      "source": "/b",
-      "target": "/_index",
-      "text": "_index"
-    },
-    {
-      "source": "/c",
-      "target": "/_index",
-      "text": "_index"
-    },
-    {
-      "source": "/c",
-      "target": "/a",
-      "text": "a"
-    },
-    {
-      "source": "/d",
-      "target": "/a",
-      "text": "a"
-    },
-    {
-      "source": "/d",
-      "target": "/asdf",
-      "text": "asdf"
-    },
-    {
-      "source": "/d",
       "target": "/",
-      "text": "asdfd"
+      "text": "md link without page"
     },
     {
-      "source": "/d",
-      "target": "/asdf",
-      "text": "asdf"
-    },
-    {
-      "source": "/d",
-      "target": "/",
-      "text": "sdfdsf"
-    },
-    {
-      "source": "/d",
-      "target": "/abcd",
-      "text": "abcd"
-    },
-    {
-      "source": "/d",
-      "target": "/a",
-      "text": "a"
-    },
-    {
-      "source": "/d",
-      "target": "/this-is-a-plain-unclicked-wikilink",
-      "text": "this is a plain unclicked wikilink"
-    },
-    {
-      "source": "/d",
-      "target": "/",
-      "text": "this is a unclicked markdown link"
-    },
-    {
-      "source": "/d",
-      "target": "/this-is-aclicked-wikilink",
-      "text": "this is aclicked wikilink"
-    },
-    {
-      "source": "/d",
-      "target": "/",
-      "text": "this is a clicked markdown link"
+      "source": "/",
+      "target": "/mdlink",
+      "text": "mdlink with page"
     }
   ]
 }

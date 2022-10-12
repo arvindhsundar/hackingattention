@@ -3,12 +3,7 @@ title: Hacking Attention
 enableToc: false
 ---
 
-Hello hello!
-
-[[a]] 
-[[b]]
-[[c]]
-[d](d)
-[c](c.md)
-
-So [[this]]
+[[wikilink without page]]
+[[wikilink with page]]
+[md link without page]()
+[mdlink with page](mdlink)
