@@ -1,14 +1,20 @@
 {
   "/": {
     "title": "Hacking Attention",
-    "content": "\nHello hello!\n\n[[a]] \n[[b]]\n[[c]]\n",
-    "lastmodified": "2022-10-12T19:55:35.076183+05:30",
+    "content": "\nHello hello!\n\n[[a]] \n[[b]]\n[[c]]\n[d](d)\n[c](c.md)\n\nSo [[this]]",
+    "lastmodified": "2022-10-12T20:28:06.2050937+05:30",
     "tags": null
   },
   "/a": {
     "title": "a",
     "content": "[[b]]\n\n[[c]]\n\n[[_index]]",
     "lastmodified": "2022-10-12T19:56:18.2939161+05:30",
+    "tags": null
+  },
+  "/abcd": {
+    "title": "abcd",
+    "content": "",
+    "lastmodified": "2022-10-12T20:33:33.7744314+05:30",
     "tags": null
   },
   "/b": {
@@ -23,10 +29,22 @@
     "lastmodified": "2022-10-12T19:56:44.7024245+05:30",
     "tags": null
   },
+  "/d": {
+    "title": "d",
+    "content": "[a](a.md)\n\n[[asdf]]\n\n[asdfd]()\n[[asdf]][sdfdsf]()\n\n[abcd](abcd.md)\n\n[a](a.md)\n\n[[this is a plain unclicked wikilink]]\n[this is a unclicked markdown link]()\n\n[[this is aclicked wikilink]]\n\n[this is a clicked markdown link]()",
+    "lastmodified": "2022-10-12T20:33:19.5115042+05:30",
+    "tags": null
+  },
   "/templates/post": {
     "title": "{{title}}",
     "content": "",
     "lastmodified": "2022-10-12T19:52:21.4505734+05:30",
+    "tags": null
+  },
+  "/this-is-aclicked-wikilink": {
+    "title": "this is aclicked wikilink",
+    "content": "",
+    "lastmodified": "2022-10-12T20:33:31.4337022+05:30",
     "tags": null
   }
 }

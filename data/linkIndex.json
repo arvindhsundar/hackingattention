@@ -16,6 +16,21 @@
           "source": "/",
           "target": "/c",
           "text": "c"
+        },
+        {
+          "source": "/",
+          "target": "/d",
+          "text": "d"
+        },
+        {
+          "source": "/",
+          "target": "/c",
+          "text": "c"
+        },
+        {
+          "source": "/",
+          "target": "/this",
+          "text": "this"
         }
       ],
       "/a": [
@@ -63,9 +78,88 @@
           "target": "/a",
           "text": "a"
         }
+      ],
+      "/d": [
+        {
+          "source": "/d",
+          "target": "/a",
+          "text": "a"
+        },
+        {
+          "source": "/d",
+          "target": "/asdf",
+          "text": "asdf"
+        },
+        {
+          "source": "/d",
+          "target": "/",
+          "text": "asdfd"
+        },
+        {
+          "source": "/d",
+          "target": "/asdf",
+          "text": "asdf"
+        },
+        {
+          "source": "/d",
+          "target": "/",
+          "text": "sdfdsf"
+        },
+        {
+          "source": "/d",
+          "target": "/abcd",
+          "text": "abcd"
+        },
+        {
+          "source": "/d",
+          "target": "/a",
+          "text": "a"
+        },
+        {
+          "source": "/d",
+          "target": "/this-is-a-plain-unclicked-wikilink",
+          "text": "this is a plain unclicked wikilink"
+        },
+        {
+          "source": "/d",
+          "target": "/",
+          "text": "this is a unclicked markdown link"
+        },
+        {
+          "source": "/d",
+          "target": "/this-is-aclicked-wikilink",
+          "text": "this is aclicked wikilink"
+        },
+        {
+          "source": "/d",
+          "target": "/",
+          "text": "this is a clicked markdown link"
+        }
       ]
     },
     "backlinks": {
+      "/": [
+        {
+          "source": "/d",
+          "target": "/",
+          "text": "asdfd"
+        },
+        {
+          "source": "/d",
+          "target": "/",
+          "text": "sdfdsf"
+        },
+        {
+          "source": "/d",
+          "target": "/",
+          "text": "this is a unclicked markdown link"
+        },
+        {
+          "source": "/d",
+          "target": "/",
+          "text": "this is a clicked markdown link"
+        }
+      ],
       "/_index": [
         {
           "source": "/a",
@@ -98,6 +192,35 @@
           "source": "/c",
           "target": "/a",
           "text": "a"
+        },
+        {
+          "source": "/d",
+          "target": "/a",
+          "text": "a"
+        },
+        {
+          "source": "/d",
+          "target": "/a",
+          "text": "a"
+        }
+      ],
+      "/abcd": [
+        {
+          "source": "/d",
+          "target": "/abcd",
+          "text": "abcd"
+        }
+      ],
+      "/asdf": [
+        {
+          "source": "/d",
+          "target": "/asdf",
+          "text": "asdf"
+        },
+        {
+          "source": "/d",
+          "target": "/asdf",
+          "text": "asdf"
         }
       ],
       "/b": [
@@ -119,6 +242,11 @@
           "text": "c"
         },
         {
+          "source": "/",
+          "target": "/c",
+          "text": "c"
+        },
+        {
           "source": "/a",
           "target": "/c",
           "text": "c"
@@ -127,6 +255,34 @@
           "source": "/b",
           "target": "/c",
           "text": "c"
+        }
+      ],
+      "/d": [
+        {
+          "source": "/",
+          "target": "/d",
+          "text": "d"
+        }
+      ],
+      "/this": [
+        {
+          "source": "/",
+          "target": "/this",
+          "text": "this"
+        }
+      ],
+      "/this-is-a-plain-unclicked-wikilink": [
+        {
+          "source": "/d",
+          "target": "/this-is-a-plain-unclicked-wikilink",
+          "text": "this is a plain unclicked wikilink"
+        }
+      ],
+      "/this-is-aclicked-wikilink": [
+        {
+          "source": "/d",
+          "target": "/this-is-aclicked-wikilink",
+          "text": "this is aclicked wikilink"
         }
       ]
     }
@@ -148,6 +304,21 @@
       "text": "c"
     },
     {
+      "source": "/",
+      "target": "/d",
+      "text": "d"
+    },
+    {
+      "source": "/",
+      "target": "/c",
+      "text": "c"
+    },
+    {
+      "source": "/",
+      "target": "/this",
+      "text": "this"
+    },
+    {
       "source": "/a",
       "target": "/b",
       "text": "b"
@@ -186,6 +357,61 @@
       "source": "/c",
       "target": "/a",
       "text": "a"
+    },
+    {
+      "source": "/d",
+      "target": "/a",
+      "text": "a"
+    },
+    {
+      "source": "/d",
+      "target": "/asdf",
+      "text": "asdf"
+    },
+    {
+      "source": "/d",
+      "target": "/",
+      "text": "asdfd"
+    },
+    {
+      "source": "/d",
+      "target": "/asdf",
+      "text": "asdf"
+    },
+    {
+      "source": "/d",
+      "target": "/",
+      "text": "sdfdsf"
+    },
+    {
+      "source": "/d",
+      "target": "/abcd",
+      "text": "abcd"
+    },
+    {
+      "source": "/d",
+      "target": "/a",
+      "text": "a"
+    },
+    {
+      "source": "/d",
+      "target": "/this-is-a-plain-unclicked-wikilink",
+      "text": "this is a plain unclicked wikilink"
+    },
+    {
+      "source": "/d",
+      "target": "/",
+      "text": "this is a unclicked markdown link"
+    },
+    {
+      "source": "/d",
+      "target": "/this-is-aclicked-wikilink",
+      "text": "this is aclicked wikilink"
+    },
+    {
+      "source": "/d",
+      "target": "/",
+      "text": "this is a clicked markdown link"
     }
   ]
 }

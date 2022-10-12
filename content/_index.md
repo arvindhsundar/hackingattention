@@ -9,3 +9,6 @@ Hello hello!
 [[b]]
 [[c]]
 [d](d)
+[c](c.md)
+
+So [[this]]
