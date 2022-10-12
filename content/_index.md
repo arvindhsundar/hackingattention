@@ -3,11 +3,8 @@ title: Hacking Attention
 enableToc: false
 ---
 
-[[a]]
+[[x]]
 
-[[b]]
+[[y]]
 
-[[c]]
-
-[[d]]
-
+[[z]]
