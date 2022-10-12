@@ -4,53 +4,101 @@
       "/": [
         {
           "source": "/",
-          "target": "/wikilink-without-page",
-          "text": "wikilink without page"
+          "target": "/a",
+          "text": "a"
         },
         {
           "source": "/",
-          "target": "/wikilink-with-page",
-          "text": "wikilink with page"
+          "target": "/b",
+          "text": "b"
         },
         {
           "source": "/",
-          "target": "/",
-          "text": "md link without page"
+          "target": "/c",
+          "text": "c"
         },
         {
           "source": "/",
-          "target": "/mdlink",
-          "text": "mdlink with page"
+          "target": "/d",
+          "text": "d"
+        }
+      ],
+      "/a": [
+        {
+          "source": "/a",
+          "target": "/b",
+          "text": "b"
+        }
+      ],
+      "/b": [
+        {
+          "source": "/b",
+          "target": "/c",
+          "text": "c"
+        }
+      ],
+      "/c": [
+        {
+          "source": "/c",
+          "target": "/d",
+          "text": "d"
+        }
+      ],
+      "/d": [
+        {
+          "source": "/d",
+          "target": "/a",
+          "text": "a"
         }
       ]
     },
     "backlinks": {
-      "/": [
+      "/a": [
         {
           "source": "/",
-          "target": "/",
-          "text": "md link without page"
+          "target": "/a",
+          "text": "a"
+        },
+        {
+          "source": "/d",
+          "target": "/a",
+          "text": "a"
         }
       ],
-      "/mdlink": [
+      "/b": [
         {
           "source": "/",
-          "target": "/mdlink",
-          "text": "mdlink with page"
+          "target": "/b",
+          "text": "b"
+        },
+        {
+          "source": "/a",
+          "target": "/b",
+          "text": "b"
         }
       ],
-      "/wikilink-with-page": [
+      "/c": [
         {
           "source": "/",
-          "target": "/wikilink-with-page",
-          "text": "wikilink with page"
+          "target": "/c",
+          "text": "c"
+        },
+        {
+          "source": "/b",
+          "target": "/c",
+          "text": "c"
         }
       ],
-      "/wikilink-without-page": [
+      "/d": [
         {
           "source": "/",
-          "target": "/wikilink-without-page",
-          "text": "wikilink without page"
+          "target": "/d",
+          "text": "d"
+        },
+        {
+          "source": "/c",
+          "target": "/d",
+          "text": "d"
         }
       ]
     }
@@ -58,23 +106,43 @@
   "links": [
     {
       "source": "/",
-      "target": "/wikilink-without-page",
-      "text": "wikilink without page"
+      "target": "/a",
+      "text": "a"
     },
     {
       "source": "/",
-      "target": "/wikilink-with-page",
-      "text": "wikilink with page"
+      "target": "/b",
+      "text": "b"
     },
     {
       "source": "/",
-      "target": "/",
-      "text": "md link without page"
+      "target": "/c",
+      "text": "c"
     },
     {
       "source": "/",
-      "target": "/mdlink",
-      "text": "mdlink with page"
+      "target": "/d",
+      "text": "d"
+    },
+    {
+      "source": "/a",
+      "target": "/b",
+      "text": "b"
+    },
+    {
+      "source": "/b",
+      "target": "/c",
+      "text": "c"
+    },
+    {
+      "source": "/c",
+      "target": "/d",
+      "text": "d"
+    },
+    {
+      "source": "/d",
+      "target": "/a",
+      "text": "a"
     }
   ]
 }

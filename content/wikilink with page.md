@@ -1,3 +1,0 @@
----
-title: "wikilink with page"
----

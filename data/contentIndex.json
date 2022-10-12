@@ -1,26 +1,38 @@
 {
   "/": {
     "title": "Hacking Attention",
-    "content": "\n[[wikilink without page]]\n[[wikilink with page]]\n[md link without page]()\n[mdlink with page](mdlink)",
-    "lastmodified": "2022-10-12T20:40:07.8149493+05:30",
+    "content": "\n[[a]]\n\n[[b]]\n\n[[c]]\n\n[[d]]\n\n",
+    "lastmodified": "2022-10-12T20:45:52.7353277+05:30",
     "tags": null
   },
-  "/mdlink": {
-    "title": "mdlink",
-    "content": "",
-    "lastmodified": "2022-10-12T20:40:39.4480638+05:30",
+  "/a": {
+    "title": "a",
+    "content": "\n[[b]]",
+    "lastmodified": "2022-10-12T20:46:26.1179288+05:30",
+    "tags": null
+  },
+  "/b": {
+    "title": "b",
+    "content": "[[c]]",
+    "lastmodified": "2022-10-12T20:46:36.0386733+05:30",
+    "tags": null
+  },
+  "/c": {
+    "title": "c",
+    "content": "[[d]]",
+    "lastmodified": "2022-10-12T20:46:55.9670035+05:30",
+    "tags": null
+  },
+  "/d": {
+    "title": "d",
+    "content": "[[a]]",
+    "lastmodified": "2022-10-12T20:46:49.0806994+05:30",
     "tags": null
   },
   "/templates/post": {
     "title": "{{title}}",
     "content": "",
     "lastmodified": "2022-10-12T19:52:21.4505734+05:30",
-    "tags": null
-  },
-  "/wikilink-with-page": {
-    "title": "wikilink with page",
-    "content": "",
-    "lastmodified": "2022-10-12T20:40:20.6225634+05:30",
     "tags": null
   }
 }
