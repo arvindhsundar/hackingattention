@@ -12,8 +12,8 @@ This site is a collection of my notes as I explore the answers to two questions 
 
 Apart from these answers, there will be tangents that I find interesting, giving a chance for happy little accidents.
 
-I invite you to see where my explorations have taken me. Start by visiting my [Areas of Exploration](Areas%20of%20Exploration.md).
+I invite you to see where my explorations have taken me. Start by visiting my [Areas of Exploration](Areas%20of%20Exploration.md) or clicking about on the graph below. (There will be more notes as my notes grow!)
 
-And, if you want to reach me, hit me up on [Twitter](https://twitter.com/arvindhsundar).
+If you want to reach me, hit me up on [Twitter](https://twitter.com/arvindhsundar).
 
 With love from Bengaluru, this is Arvindh saying over and out.
