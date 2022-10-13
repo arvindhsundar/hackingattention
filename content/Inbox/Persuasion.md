@@ -1,3 +1,6 @@
+---
+title: "Persuasion"
+---
 # Persuasion
 
 The art & science of getting others to accept your [worldview](worldview).

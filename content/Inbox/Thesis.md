@@ -1,3 +1,6 @@
+---
+title: "Thesis"
+---
 # Thesis
 A single sentence that describes the [unity](Unity%20and%20Complexity.md) of whatever you're trying to communicate.
 

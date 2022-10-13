@@ -1,3 +1,6 @@
+---
+title: "Sales"
+---
 # Sales
 Sales is the art of trading something of value for something else of value (usually money).
 

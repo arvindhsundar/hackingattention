@@ -15,6 +15,7 @@ Apart from these answers, there will be tangents that I find interesting, giving
 A few pointers:
 - The notes are written for me. The detail depends on my preferred [Working Resolution](Working%20Resolution.md) or interest in the topic.
 - The notes will change over time.
+- The notes in [The Inbox](The%20Inbox.md) are works in progress.
 - If you're curious, you could explore [My Learning Process](My%20Learning%20Process.md).
 - Some of you may prefer to see my [Areas of Exploration](Areas%20of%20Exploration.md)
 
