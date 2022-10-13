@@ -1,3 +1,6 @@
+---
+title: "Arguments"
+---
 # Arguments
 Arguments are the fundamental building blocks of [Reasoning](Reasoning.md).
 

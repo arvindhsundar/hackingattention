@@ -10,9 +10,13 @@ This site is a collection of my notes as I explore the answers to two questions 
 > 1. What does it take to capture, hold and direct attention?
 > 2. How can we retain control over our attention?
 
-Apart from these answers, there will be tangents that I find interesting, giving a chance for happy little accidents.
+Apart from these answers, there will be tangents that I find interesting, giving a chance for happy little accidents. I invite you to see where my explorations have taken me.
 
-I invite you to see where my explorations have taken me. Start by visiting my [Areas of Exploration](Areas%20of%20Exploration.md) or clicking about on the graph below. (There will be more notes as my notes grow!)
+A few pointers:
+- The notes are written for me. The detail depends on my preferred [Working Resolution](Working%20Resolution.md) or interest in the topic.
+- The notes will change over time.
+- If you're curious, you could explore [My Learning Process](My%20Learning%20Process.md).
+- Some of you may prefer to see my [Areas of Exploration](Areas%20of%20Exploration.md)
 
 If you want to reach me, hit me up on [Twitter](https://twitter.com/arvindhsundar).
 

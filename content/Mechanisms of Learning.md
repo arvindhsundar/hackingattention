@@ -1,3 +1,6 @@
+---
+title: "Mechanisms of Learning"
+---
 # Mechanisms of Learning
 
 These are the ways we learn.

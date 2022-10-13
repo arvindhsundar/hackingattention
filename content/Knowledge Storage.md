@@ -1,3 +1,6 @@
+---
+title: "Knowledge Storage"
+---
 # Knowledge Storage
 Knowledge Storage is a step of [Learning](Learning.md) where we add an [Atomic Ideas](Atomic%20Ideas.md) to a relevant place in our [Mesh of Understanding](Mesh%20of%20Understanding.md).
 

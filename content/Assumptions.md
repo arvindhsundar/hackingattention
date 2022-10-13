@@ -1,3 +1,6 @@
+---
+title: "Assumptions"
+---
 # Assumptions
 An [Axiom](Axioms.md) that is local in scope.
 

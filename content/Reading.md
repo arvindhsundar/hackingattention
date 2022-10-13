@@ -1,3 +1,6 @@
+---
+title: "Reading"
+---
 # Reading
 Reading is a key [Mechanisms of Learning](Mechanisms%20of%20Learning.md). It is also how most of us [discover](Discovery.md) new things and [learn](Learning.md) them.
 

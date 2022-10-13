@@ -1,3 +1,6 @@
+---
+title: "How To Read A Book"
+---
 # How To Read A Book
 In "How To Read A Book" (Adler, Mortimer J., and Charles Van Doren. _How to Read a Book_. Simon and Schuster, 1972.), there are several types of [Reading](Reading.md) outlined.
 

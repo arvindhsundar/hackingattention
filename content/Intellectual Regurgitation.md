@@ -1,3 +1,6 @@
+---
+title: "Intellectual Regurgitation"
+---
 # Intellectual Regurgitation
 In an effort to sound smart, people participate in intellectual regurgitation: taking [prepackaged opinions](prepackaged%20opinions) and pass it off as their own, bypassing the [thinking required to form an opinion](thinking%20required%20to%20form%20an%20opinion). 
 

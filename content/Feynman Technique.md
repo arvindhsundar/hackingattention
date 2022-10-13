@@ -1,3 +1,6 @@
+---
+title: "Feynman Technique"
+---
 # Feynman Technique
 
 This is a technique developed by Richard Feynman to make sure he understood [something fully](Unity%20and%20Complexity.md).

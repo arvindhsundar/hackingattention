@@ -1,3 +1,6 @@
+---
+title: "Unity and Complexity"
+---
 # Unity & Complexity
 To truly [understand](Learning.md) something, we need to follow [My Learning Process](My%20Learning%20Process.md). This allows us to understand how the individual pieces - the [Atomic Ideas](Atomic%20Ideas.md) work - the "complexity" and how the whole [Concept](Concept.md), "the unity" works.
 

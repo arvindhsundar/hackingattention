@@ -1,3 +1,6 @@
+---
+title: "Reasoning"
+---
 # Reasoning
 Reasoning is the process of constructing [Arguments](Arguments.md) to provide [Proof](Proof.md) for a [Proposition](Proposition.md).
 

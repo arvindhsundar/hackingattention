@@ -1,3 +1,6 @@
+---
+title: "Teardown"
+---
 # Teardown
 Teardown is the act of breaking something down to [Atomic Ideas](Atomic%20Ideas.md), and recording them as [notes](Note%20Taking.md).
 

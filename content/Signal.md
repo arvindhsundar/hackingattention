@@ -1,3 +1,6 @@
+---
+title: "Signal"
+---
 # Signal
 A signal is a way for an entity to convey something to another entity. 
 

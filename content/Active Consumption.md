@@ -1,3 +1,6 @@
+---
+title: "Active Consumption"
+---
 # Active Consumption
 Most consumption is passive: We lean back and let the information wash over us. However, if we actively engage with the content, we tend to retain a lot more. 
 

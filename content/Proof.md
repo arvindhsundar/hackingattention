@@ -1,3 +1,6 @@
+---
+title: "Proof"
+---
 # Proof
 Evidence for the truth of a [Proposition](Proposition.md).
 

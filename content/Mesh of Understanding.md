@@ -1,4 +1,5 @@
 ---
+title: "Mesh of Understanding"
 aliases: [mesh]
 ---
 

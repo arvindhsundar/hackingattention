@@ -1,3 +1,6 @@
+---
+title: "Relationships"
+---
 # Relationships
 
 In the context of [Learning](Learning.md), Relationships indicate how two [Atomic Ideas](Atomic%20Ideas.md) are related. 

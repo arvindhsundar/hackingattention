@@ -1,3 +1,6 @@
+---
+title: "Criticism"
+---
 # Criticism
 Criticism is the act of extending your [understanding](Learning.md) by establishing a [relationship](Relationships.md) between an idea you [discovered](Discovery.md) and any other existing [idea](Atomic%20Ideas.md) or [Concept](Concept.md) in your [Mesh of Understanding](Mesh%20of%20Understanding.md).
 

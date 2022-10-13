@@ -1,3 +1,6 @@
+---
+title: "Learning"
+---
 ## Learning
 Learning is the act of increasing your understanding a topic or subject. 
 

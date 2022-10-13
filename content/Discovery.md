@@ -1,3 +1,6 @@
+---
+title: "Discovery"
+---
 # Discovery
 Discovery is exposure to a new entity - an idea, concept, emotion, movement - anything.
 

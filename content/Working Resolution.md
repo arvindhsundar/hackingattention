@@ -1,3 +1,6 @@
+---
+title: "Working Resolution"
+---
 # Working Resolution
 In any situation, there is a threshold of information required for meaningful engagement, defined by the context in which we are operating. 
 

@@ -1,4 +1,5 @@
 ---
+title: "Models"
 aliases: [model]
 ---
 # Models

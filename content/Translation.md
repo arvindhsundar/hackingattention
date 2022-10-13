@@ -1,3 +1,6 @@
+---
+title: "Translation"
+---
 # Translation
 Translation is the process of understanding the author or creator's intent and putting it forward in our own words - often into [Atomic Ideas](Atomic%20Ideas.md) or [Concept](Concept.md), depending on the [Working Resolution](Working%20Resolution.md).
 

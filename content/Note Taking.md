@@ -1,3 +1,6 @@
+---
+title: "Note Taking"
+---
 # Note Taking
 Note taking is a powerful [way to learn](Mechanisms%20of%20Learning.md) and build a [Mesh of Understanding](Mesh%20of%20Understanding.md).
 

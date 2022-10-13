@@ -1,3 +1,6 @@
+---
+title: "Explosive Questions"
+---
 # Explosive Questions
 These are questions we can ask to take apart the concepts we are presented.
 

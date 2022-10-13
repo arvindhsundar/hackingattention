@@ -1,4 +1,5 @@
 ---
+title: "Concept"
 aliases: [concepts, concept, Concepts]
 ---
 # Concept

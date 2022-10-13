@@ -1,4 +1,5 @@
 ---
+title: "Atomic Ideas"
 aliases: [note, node, nodes, notes, permanote]
 ---
 # Atomic Ideas
