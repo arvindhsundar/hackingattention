@@ -3,6 +3,6 @@
 These are the ways we learn.
 
 Here is a list:
-- [[Reading]]
-- [[Note Taking]]
-- [[Solving Problems]]
+- [Reading](Reading.md)
+- [Note Taking](Note%20Taking.md)
+- [Solving Problems](Solving%20Problems.md)

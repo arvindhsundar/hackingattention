@@ -1,6 +1,6 @@
 # The PASTOR Technique
 
-I learned this from Ray Edwards, while studying [[Direct Response Copywriting]]. Each letter in PASTOR stands for a section in a piece of communication - blog post, email, [[Sales Letters]], video etc.
+I learned this from Ray Edwards, while studying [Direct Response Copywriting](Direct%20Response%20Copywriting). Each letter in PASTOR stands for a section in a piece of communication - blog post, email, [Sales Letters](Inbox/Sales%20Letters.md), video etc.
 
 ## Elements of PASTOR
 ### P: Person, Problem & Pain.

@@ -1,7 +1,7 @@
 # Unity & Complexity
-To truly [[Learning|understand]] something, we need to follow [[My Learning Process]]. This allows us to understand how the individual pieces - the [[Atomic Ideas]] work - the "complexity" and how the whole [[Concept]], "the unity" works.
+To truly [understand](Learning.md) something, we need to follow [My Learning Process](My%20Learning%20Process.md). This allows us to understand how the individual pieces - the [Atomic Ideas](Atomic%20Ideas.md) work - the "complexity" and how the whole [Concept](Concept.md), "the unity" works.
 
-I like to visualize the [[Relationships|relationship]] between a tree and a forest as a way to [[Translation|translate]] the relationship between [[.md|Unity and Complexity]].
+I like to visualize the [relationship](Relationships.md) between a tree and a forest as a way to [translate](Translation.md) the relationship between [Unity and Complexity](.md).
 
 
 ## Trivia

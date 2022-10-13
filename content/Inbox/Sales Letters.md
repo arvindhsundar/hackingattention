@@ -1,8 +1,8 @@
 # Sales Letters
-Any piece of persuasive copy that you use to get [[Sales]]. It can be in a landing page, an email, a video - any piece of communication (with minor adjustments to suit the medium).
+Any piece of persuasive copy that you use to get [Sales](Inbox/Sales.md). It can be in a landing page, an email, a video - any piece of communication (with minor adjustments to suit the medium).
 
 ## Parts of a Sales Letter
-The Sales Letter has 15 parts, each fitting into [[The PASTOR Technique]].
+The Sales Letter has 15 parts, each fitting into [The PASTOR Technique](Inbox/The%20PASTOR%20Technique.md).
 
 ### 1. Pre-Head
 A short sentence fragment used to grab attention from your ideal prospect.
@@ -60,9 +60,9 @@ Your copy needs to:
 3. Ask for the sale.
 
 ### 6. Subheads
-These are scannable headings that lead the reader through the body of the letter. They should communicate the [[../Unity and Complexity|gist]] of your message upon scanning.
+These are scannable headings that lead the reader through the body of the letter. They should communicate the [gist](Unity%20and%20Complexity.md) of your message upon scanning.
 
-When people [[scan content]], your headline and subheads should persuade the buyer to read the whole letter.
+When people [scan content](scan%20content), your headline and subheads should persuade the buyer to read the whole letter.
 
 ### 7. Rapport
 This is where you show the buyer that you know them, their pain and the problem they face.
@@ -76,10 +76,10 @@ People will like you if you:
 Brief statements that arouse curiosity.
 
 ### 9. Credibility
-It's the section where you [[../Signal]] your [[../Proof]] to your buyers. You use this to address your buyers' [[Fear]] - often with a Subhead that says "Who Am I and Why Should You Listen To Me?"
+It's the section where you [Signal](Signal.md) your [Proof](Proof.md) to your buyers. You use this to address your buyers' [Fear](Fear) - often with a Subhead that says "Who Am I and Why Should You Listen To Me?"
 
 ### 10. Testimonials
-Testimonials are [[../Proof]] that your solution works. Unscripted video testimonials with low production value are the best.
+Testimonials are [Proof](Proof.md) that your solution works. Unscripted video testimonials with low production value are the best.
 
 If you don't have testimonials, use relevant quotes of famous people, articles, credible sources.
 

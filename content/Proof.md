@@ -1,4 +1,4 @@
 # Proof
-Evidence for the truth of a [[Proposition]].
+Evidence for the truth of a [Proposition](Proposition.md).
 
-Every [[Proposition]] cannot be proved. That is why we have [[Assumptions]] and [[Axioms]].
+Every [Proposition](Proposition.md) cannot be proved. That is why we have [Assumptions](Assumptions.md) and [Axioms](Axioms.md).

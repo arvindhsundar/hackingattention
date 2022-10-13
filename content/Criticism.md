@@ -1,5 +1,5 @@
 # Criticism
-Criticism is the act of extending your [[Learning|understanding]] by establishing a [[Relationships|relationship]] between an idea you [[Discovery|discovered]] and any other existing [[Atomic Ideas|idea]] or [[Concept]] in your [[Mesh of Understanding]].
+Criticism is the act of extending your [understanding](Learning.md) by establishing a [relationship](Relationships.md) between an idea you [discovered](Discovery.md) and any other existing [idea](Atomic%20Ideas.md) or [Concept](Concept.md) in your [Mesh of Understanding](Mesh%20of%20Understanding.md).
 
 Criticism can take one of three paths:
 

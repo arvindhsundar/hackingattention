@@ -13,6 +13,6 @@ To drive a car, we don't need to know how a car is built.
 To build a car, we don't need to know how steel is made.
 
 ## Working Resolution and Expertise
-If you're looking to cultivate [[Deep Expertise|depth]], then it would be beneficial to build up [[.md|Working Resolution]] to a great level of fidelity.
+If you're looking to cultivate [depth](Deep%20Expertise), then it would be beneficial to build up [Working Resolution](.md) to a great level of fidelity.
 
-If you're looking to cultivate [[Systems Expertise|breadth]], then it would be beneficial to build up your knowledge of [[Relationships]] across a number of different [[Concept]] at a lower working resolution
+If you're looking to cultivate [breadth](Systems%20Expertise), then it would be beneficial to build up your knowledge of [Relationships](Relationships.md) across a number of different [Concept](Concept.md) at a lower working resolution

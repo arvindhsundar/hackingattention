@@ -1,6 +1,6 @@
 # The Big Idea
 
-A single statement that outlines your [[Thesis]].
+A single statement that outlines your [Thesis](Inbox/Thesis.md).
 
 It should contain the answers to:
 1. Who is the customer?
