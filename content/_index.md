@@ -13,7 +13,7 @@ This site is a collection of my notes as I explore the answers to two questions 
 Apart from these answers, there will be tangents that I find interesting, giving a chance for happy little accidents. I invite you to see where my explorations have taken me.
 
 A few pointers:
-- The notes are written for me. The detail depends on my preferred [[Working Resoultion]] or interest in the topic.
+- The notes are written for me. The detail depends on my preferred [Working Resoultion](Working%20Resoultion.md) or interest in the topic.
 - The notes will change over time.
 - Some of you may prefer to see my [Areas of Exploration](Areas%20of%20Exploration.md)
 
