@@ -1,4 +1,4 @@
-baseURL = "http://notes.hackingattention.com"
+baseURL = "http://notes.hackingattention.com/hackingattention"
 languageCode = "en-us"
 googleAnalytics = ""
 relativeURLs = false
