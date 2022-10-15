@@ -12,4 +12,5 @@ The Working Resolution changes from task to task, depending on the context in wh
 
 ## Example of Working Resolution
 To drive a car, we don't need to know how a car is built.
+
 To build a car, we don't need to know how steel is made.
