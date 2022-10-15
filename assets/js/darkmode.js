@@ -32,6 +32,6 @@ window.addEventListener('DOMContentLoaded', () => {
   toggleSwitch.addEventListener('change', switchTheme, false)
 
   if (currentTheme === 'dark') {
-    toggleSwitch.checked = false
+    toggleSwitch.checked = true
   }
 })
