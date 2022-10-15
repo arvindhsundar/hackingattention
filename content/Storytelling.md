@@ -11,4 +11,4 @@ That's why Kung Fu Panda & Harry Potter & The Matrix have similar plotlines.
 
 However, many people [complain](complain.md) that using a formula or framework for storytelling kills [creativity](creativity.md).
 
-The fact that a formula exists also means that a creator can use a twist to subvert that expectation - and use [surprise](surprise) to gain attention.
+The fact that a formula exists also means that a creator can use a twist to subvert that expectation - and use [surprise](surprise.md) to gain attention.
