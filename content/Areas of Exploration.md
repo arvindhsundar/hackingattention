@@ -4,7 +4,7 @@ title: "Areas of Exploration"
 
 These are the areas I'm planning to explore in [Hacking Attention](https://hackingattention.com)
 
-- Storytelling
+- [Storytelling](Storytelling.md)
 - Gamification
 - Copywriting
 - Video Creation
@@ -27,3 +27,5 @@ These are the areas I'm planning to explore in [Hacking Attention](https://hacki
 - Influencers
 - Negotiation Specialists
 - Learning Design
+- Makeup Artists
+- Sale
