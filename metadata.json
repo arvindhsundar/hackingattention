@@ -1,0 +1,2936 @@
+[
+  {
+    "fileName": "Translation",
+    "relativePath": "Translation.md",
+    "headings": [
+      {
+        "heading": "Translation",
+        "level": 1
+      },
+      {
+        "heading": "Tools of Translation",
+        "level": 2
+      },
+      {
+        "heading": "Analogies",
+        "level": 3
+      },
+      {
+        "heading": "Vocabulary",
+        "level": 3
+      },
+      {
+        "heading": "Note Taking",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Atomic Ideas",
+        "relativePath": "Atomic Ideas.md"
+      },
+      {
+        "link": "Concept",
+        "relativePath": "Concept.md"
+      },
+      {
+        "link": "Working Resolution",
+        "relativePath": "Working Resolution.md"
+      },
+      {
+        "link": "Learning",
+        "relativePath": "Learning.md"
+      },
+      {
+        "link": "Unity and Complexity",
+        "relativePath": "Unity and Complexity.md"
+      },
+      {
+        "link": "Concept",
+        "displayText": "concepts",
+        "relativePath": "Concept.md"
+      },
+      {
+        "link": "Intellectual Regurgitation",
+        "relativePath": "Intellectual Regurgitation.md"
+      },
+      {
+        "link": "Note Taking",
+        "relativePath": "Note Taking.md"
+      },
+      {
+        "link": "My Learning Process",
+        "relativePath": "My Learning Process.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Unity and Complexity",
+        "link": "Translation",
+        "relativePath": "Unity and Complexity.md",
+        "displayText": "translate"
+      },
+      {
+        "fileName": "Relationships",
+        "link": "Translation",
+        "relativePath": "Relationships.md"
+      },
+      {
+        "fileName": "Note Taking",
+        "link": "Translation",
+        "relativePath": "Note Taking.md"
+      },
+      {
+        "fileName": "My Learning Process",
+        "link": "Translation",
+        "relativePath": "My Learning Process.md"
+      },
+      {
+        "fileName": "Learning",
+        "link": "Translation",
+        "relativePath": "Learning.md",
+        "displayText": "translate what you've learned"
+      },
+      {
+        "fileName": "How To Read A Book",
+        "link": "Translation",
+        "relativePath": "How To Read A Book.md",
+        "displayText": "translated"
+      },
+      {
+        "fileName": "Feynman Technique",
+        "link": "Translation",
+        "relativePath": "Feynman Technique.md"
+      },
+      {
+        "fileName": "Atomic Ideas",
+        "link": "Translation",
+        "relativePath": "Atomic Ideas.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Inbox",
+    "relativePath": "The Inbox.md",
+    "headings": [
+      {
+        "heading": "The Inbox",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "My Learning Process",
+        "relativePath": "My Learning Process.md"
+      },
+      {
+        "link": "Mesh of Understanding",
+        "relativePath": "Mesh of Understanding.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Note Taking",
+        "link": "The Inbox",
+        "relativePath": "Note Taking.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Working Resolution",
+    "relativePath": "Working Resolution.md",
+    "headings": [
+      {
+        "heading": "Working Resolution",
+        "level": 1
+      },
+      {
+        "heading": "Example of Working Resolution",
+        "level": 2
+      },
+      {
+        "heading": "Working Resolution and Expertise",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Deep Expertise",
+        "displayText": "depth"
+      },
+      {
+        "link": ".md",
+        "displayText": "Working Resolution"
+      },
+      {
+        "link": "Systems Expertise",
+        "displayText": "breadth"
+      },
+      {
+        "link": "Relationships",
+        "relativePath": "Relationships.md"
+      },
+      {
+        "link": "Concept",
+        "relativePath": "Concept.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Translation",
+        "link": "Working Resolution",
+        "relativePath": "Translation.md"
+      },
+      {
+        "fileName": "Relationships",
+        "link": "Working Resolution",
+        "relativePath": "Relationships.md"
+      },
+      {
+        "fileName": "Note Taking",
+        "link": "Working Resolution",
+        "relativePath": "Note Taking.md"
+      },
+      {
+        "fileName": "Models",
+        "link": "Working Resolution",
+        "relativePath": "Models.md"
+      },
+      {
+        "fileName": "Knowledge Storage",
+        "link": "Working Resolution",
+        "relativePath": "Knowledge Storage.md"
+      },
+      {
+        "fileName": "Mesh of Understanding",
+        "link": "Working Resolution",
+        "relativePath": "Mesh of Understanding.md",
+        "displayText": "resolution"
+      },
+      {
+        "fileName": "How To Read A Book",
+        "link": "Working Resolution",
+        "relativePath": "How To Read A Book.md"
+      },
+      {
+        "fileName": "Discovery",
+        "link": "Working Resolution",
+        "relativePath": "Discovery.md",
+        "displayText": "resolution"
+      },
+      {
+        "fileName": "Concept",
+        "link": "Working Resolution",
+        "relativePath": "Concept.md"
+      },
+      {
+        "fileName": "Atomic Ideas",
+        "link": "Working Resolution",
+        "relativePath": "Atomic Ideas.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Unity and Complexity",
+    "relativePath": "Unity and Complexity.md",
+    "headings": [
+      {
+        "heading": "Unity & Complexity",
+        "level": 1
+      },
+      {
+        "heading": "Trivia",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Learning",
+        "displayText": "understand",
+        "relativePath": "Learning.md"
+      },
+      {
+        "link": "My Learning Process",
+        "relativePath": "My Learning Process.md"
+      },
+      {
+        "link": "Atomic Ideas",
+        "relativePath": "Atomic Ideas.md"
+      },
+      {
+        "link": "Concept",
+        "relativePath": "Concept.md"
+      },
+      {
+        "link": "Relationships",
+        "displayText": "relationship",
+        "relativePath": "Relationships.md"
+      },
+      {
+        "link": "Translation",
+        "displayText": "translate",
+        "relativePath": "Translation.md"
+      },
+      {
+        "link": ".md",
+        "displayText": "Unity and Complexity"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Translation",
+        "link": "Unity and Complexity",
+        "relativePath": "Translation.md"
+      },
+      {
+        "fileName": "Teardown",
+        "link": "Unity and Complexity",
+        "relativePath": "Teardown.md"
+      },
+      {
+        "fileName": "Rebuild",
+        "link": "Unity and Complexity",
+        "relativePath": "Rebuild.md"
+      },
+      {
+        "fileName": "Note Taking",
+        "link": "Unity and Complexity",
+        "relativePath": "Note Taking.md"
+      },
+      {
+        "fileName": "Learning",
+        "link": "Unity and Complexity",
+        "relativePath": "Learning.md"
+      },
+      {
+        "fileName": "Thesis",
+        "link": "Unity and Complexity",
+        "relativePath": "Inbox/Thesis.md",
+        "displayText": "unity"
+      },
+      {
+        "fileName": "Sales Letters",
+        "link": "Unity and Complexity",
+        "relativePath": "Inbox/Sales Letters.md",
+        "displayText": "gist"
+      },
+      {
+        "fileName": "How To Read A Book",
+        "link": "Unity and Complexity",
+        "relativePath": "How To Read A Book.md",
+        "displayText": "the forest & the trees"
+      },
+      {
+        "fileName": "How To Read A Book",
+        "link": "Unity and Complexity",
+        "relativePath": "How To Read A Book.md",
+        "displayText": "the unity"
+      },
+      {
+        "fileName": "How To Read A Book",
+        "link": "Unity and Complexity",
+        "relativePath": "How To Read A Book.md",
+        "displayText": "constituent concepts"
+      },
+      {
+        "fileName": "Feynman Technique",
+        "link": "Unity and Complexity",
+        "relativePath": "Feynman Technique.md",
+        "displayText": "something fully"
+      }
+    ]
+  },
+  {
+    "fileName": "Teardown",
+    "relativePath": "Teardown.md",
+    "headings": [
+      {
+        "heading": "Teardown",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Atomic Ideas",
+        "relativePath": "Atomic Ideas.md"
+      },
+      {
+        "link": "Note Taking",
+        "displayText": "notes",
+        "relativePath": "Note Taking.md"
+      },
+      {
+        "link": "Rebuild",
+        "relativePath": "Rebuild.md"
+      },
+      {
+        "link": "Unity and Complexity",
+        "relativePath": "Unity and Complexity.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Note Taking",
+        "link": "Teardown",
+        "relativePath": "Note Taking.md"
+      },
+      {
+        "fileName": "My Learning Process",
+        "link": "Teardown",
+        "relativePath": "My Learning Process.md"
+      },
+      {
+        "fileName": "Learning",
+        "link": "Teardown",
+        "relativePath": "Learning.md",
+        "displayText": "tearing something down"
+      },
+      {
+        "fileName": "How To Read A Book",
+        "link": "Teardown",
+        "relativePath": "How To Read A Book.md",
+        "displayText": "tearing down the book"
+      },
+      {
+        "fileName": "Discovery",
+        "link": "Teardown",
+        "relativePath": "Discovery.md"
+      },
+      {
+        "fileName": "Active Consumption",
+        "link": "Teardown",
+        "relativePath": "Active Consumption.md",
+        "displayText": "rip it apart"
+      }
+    ]
+  },
+  {
+    "fileName": "Solving Problems",
+    "relativePath": "Solving Problems.md",
+    "headings": [
+      {
+        "heading": "Solving Problems",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Mechanisms of Learning",
+        "displayText": "way to learn",
+        "relativePath": "Mechanisms of Learning.md"
+      },
+      {
+        "link": "Discovery",
+        "displayText": "aided or unaided discovery",
+        "relativePath": "Discovery.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Mechanisms of Learning",
+        "link": "Solving Problems",
+        "relativePath": "Mechanisms of Learning.md"
+      },
+      {
+        "fileName": "How To Read A Book",
+        "link": "Solving Problems",
+        "relativePath": "How To Read A Book.md",
+        "displayText": "trying to solve"
+      }
+    ]
+  },
+  {
+    "fileName": "Signal",
+    "relativePath": "Signal.md",
+    "headings": [
+      {
+        "heading": "Signal",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Noise"
+      },
+      {
+        "link": "message"
+      },
+      {
+        "link": "reputation"
+      },
+      {
+        "link": "Signal to Noise Ratio",
+        "displayText": "consciously choose the signals they send"
+      },
+      {
+        "link": "reputation"
+      },
+      {
+        "link": "brand"
+      },
+      {
+        "link": "Signal to Noise Ratio"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Intellectual Regurgitation",
+        "link": "Signal",
+        "relativePath": "Intellectual Regurgitation.md"
+      },
+      {
+        "fileName": "Sales Letters",
+        "link": "Signal",
+        "relativePath": "Inbox/Sales Letters.md",
+        "displayText": "../Signal"
+      }
+    ]
+  },
+  {
+    "fileName": "Relationships",
+    "relativePath": "Relationships.md",
+    "headings": [
+      {
+        "heading": "Relationships",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Learning",
+        "relativePath": "Learning.md"
+      },
+      {
+        "link": "Atomic Ideas",
+        "relativePath": "Atomic Ideas.md"
+      },
+      {
+        "link": "Atomic Ideas",
+        "relativePath": "Atomic Ideas.md"
+      },
+      {
+        "link": "Concept",
+        "relativePath": "Concept.md"
+      },
+      {
+        "link": "Rebuild",
+        "relativePath": "Rebuild.md"
+      },
+      {
+        "link": "Translation",
+        "relativePath": "Translation.md"
+      },
+      {
+        "link": "My Learning Process",
+        "relativePath": "My Learning Process.md"
+      },
+      {
+        "link": "Working Resolution",
+        "relativePath": "Working Resolution.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Working Resolution",
+        "link": "Relationships",
+        "relativePath": "Working Resolution.md"
+      },
+      {
+        "fileName": "Unity and Complexity",
+        "link": "Relationships",
+        "relativePath": "Unity and Complexity.md",
+        "displayText": "relationship"
+      },
+      {
+        "fileName": "Rebuild",
+        "link": "Relationships",
+        "relativePath": "Rebuild.md"
+      },
+      {
+        "fileName": "Note Taking",
+        "link": "Relationships",
+        "relativePath": "Note Taking.md"
+      },
+      {
+        "fileName": "Note Taking",
+        "link": "Relationships",
+        "relativePath": "Note Taking.md"
+      },
+      {
+        "fileName": "Note Taking",
+        "link": "Relationships",
+        "relativePath": "Note Taking.md"
+      },
+      {
+        "fileName": "Models",
+        "link": "Relationships",
+        "relativePath": "Models.md"
+      },
+      {
+        "fileName": "Mesh of Understanding",
+        "link": "Relationships",
+        "relativePath": "Mesh of Understanding.md"
+      },
+      {
+        "fileName": "Mesh of Understanding",
+        "link": "Relationships",
+        "relativePath": "Mesh of Understanding.md"
+      },
+      {
+        "fileName": "Concept",
+        "link": "Relationships",
+        "relativePath": "Concept.md"
+      },
+      {
+        "fileName": "Criticism",
+        "link": "Relationships",
+        "relativePath": "Criticism.md",
+        "displayText": "relationship"
+      },
+      {
+        "fileName": "Active Consumption",
+        "link": "Relationships",
+        "relativePath": "Active Consumption.md",
+        "displayText": "relationships"
+      },
+      {
+        "fileName": "Atomic Ideas",
+        "link": "Relationships",
+        "relativePath": "Atomic Ideas.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Rebuild",
+    "relativePath": "Rebuild.md",
+    "headings": [
+      {
+        "heading": "Rebuild",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Concept",
+        "relativePath": "Concept.md"
+      },
+      {
+        "link": "Discovery",
+        "relativePath": "Discovery.md"
+      },
+      {
+        "link": "Atomic Ideas",
+        "relativePath": "Atomic Ideas.md"
+      },
+      {
+        "link": "Relationships",
+        "relativePath": "Relationships.md"
+      },
+      {
+        "link": "Atomic Ideas",
+        "displayText": "nodes",
+        "relativePath": "Atomic Ideas.md"
+      },
+      {
+        "link": "Unity and Complexity",
+        "relativePath": "Unity and Complexity.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Teardown",
+        "link": "Rebuild",
+        "relativePath": "Teardown.md"
+      },
+      {
+        "fileName": "Relationships",
+        "link": "Rebuild",
+        "relativePath": "Relationships.md"
+      },
+      {
+        "fileName": "Note Taking",
+        "link": "Rebuild",
+        "relativePath": "Note Taking.md"
+      },
+      {
+        "fileName": "My Learning Process",
+        "link": "Rebuild",
+        "relativePath": "My Learning Process.md"
+      },
+      {
+        "fileName": "Active Consumption",
+        "link": "Rebuild",
+        "relativePath": "Active Consumption.md",
+        "displayText": "put it back together"
+      },
+      {
+        "fileName": "Atomic Ideas",
+        "link": "Rebuild",
+        "relativePath": "Atomic Ideas.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Reading",
+    "relativePath": "Reading.md",
+    "headings": [
+      {
+        "heading": "Reading",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Mechanisms of Learning",
+        "relativePath": "Mechanisms of Learning.md"
+      },
+      {
+        "link": "Discovery",
+        "displayText": "discover",
+        "relativePath": "Discovery.md"
+      },
+      {
+        "link": "Learning",
+        "displayText": "learn",
+        "relativePath": "Learning.md"
+      },
+      {
+        "link": "Learning",
+        "relativePath": "Learning.md"
+      },
+      {
+        "link": "Active Consumption",
+        "displayText": "actively you consume",
+        "relativePath": "Active Consumption.md"
+      },
+      {
+        "link": "How To Read A Book",
+        "relativePath": "How To Read A Book.md"
+      },
+      {
+        "link": "Mesh of Understanding",
+        "relativePath": "Mesh of Understanding.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Mechanisms of Learning",
+        "link": "Reading",
+        "relativePath": "Mechanisms of Learning.md"
+      },
+      {
+        "fileName": "How To Read A Book",
+        "link": "Reading",
+        "relativePath": "How To Read A Book.md"
+      },
+      {
+        "fileName": "Discovery",
+        "link": "Reading",
+        "relativePath": "Discovery.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Proposition",
+    "relativePath": "Proposition.md",
+    "headings": [
+      {
+        "heading": "Proposition",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Proof",
+        "link": "Proposition",
+        "relativePath": "Proof.md"
+      },
+      {
+        "fileName": "Proof",
+        "link": "Proposition",
+        "relativePath": "Proof.md"
+      },
+      {
+        "fileName": "Reasoning",
+        "link": "Proposition",
+        "relativePath": "Reasoning.md"
+      },
+      {
+        "fileName": "Persuasion",
+        "link": "Proposition",
+        "relativePath": "Inbox/Persuasion.md",
+        "displayText": "../Proposition"
+      },
+      {
+        "fileName": "Axioms",
+        "link": "Proposition",
+        "relativePath": "Axioms.md"
+      },
+      {
+        "fileName": "Assumptions",
+        "link": "Proposition",
+        "relativePath": "Assumptions.md"
+      },
+      {
+        "fileName": "Arguments",
+        "link": "Proposition",
+        "relativePath": "Arguments.md"
+      },
+      {
+        "fileName": "Arguments",
+        "link": "Proposition",
+        "relativePath": "Arguments.md",
+        "displayText": "propositions"
+      }
+    ]
+  },
+  {
+    "fileName": "Proof",
+    "relativePath": "Proof.md",
+    "headings": [
+      {
+        "heading": "Proof",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Proposition",
+        "relativePath": "Proposition.md"
+      },
+      {
+        "link": "Proposition",
+        "relativePath": "Proposition.md"
+      },
+      {
+        "link": "Assumptions",
+        "relativePath": "Assumptions.md"
+      },
+      {
+        "link": "Axioms",
+        "relativePath": "Axioms.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Reasoning",
+        "link": "Proof",
+        "relativePath": "Reasoning.md"
+      },
+      {
+        "fileName": "Sales Letters",
+        "link": "Proof",
+        "relativePath": "Inbox/Sales Letters.md",
+        "displayText": "../Proof"
+      },
+      {
+        "fileName": "Sales Letters",
+        "link": "Proof",
+        "relativePath": "Inbox/Sales Letters.md",
+        "displayText": "../Proof"
+      },
+      {
+        "fileName": "Persuasion",
+        "link": "Proof",
+        "relativePath": "Inbox/Persuasion.md",
+        "displayText": "../Proof"
+      },
+      {
+        "fileName": "Axioms",
+        "link": "Proof",
+        "relativePath": "Axioms.md"
+      },
+      {
+        "fileName": "Assumptions",
+        "link": "Proof",
+        "relativePath": "Assumptions.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Reasoning",
+    "relativePath": "Reasoning.md",
+    "headings": [
+      {
+        "heading": "Reasoning",
+        "level": 1
+      },
+      {
+        "heading": "Inductive Reasoning",
+        "level": 2
+      },
+      {
+        "heading": "Deductive Reasoning",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Arguments",
+        "relativePath": "Arguments.md"
+      },
+      {
+        "link": "Proof",
+        "relativePath": "Proof.md"
+      },
+      {
+        "link": "Proposition",
+        "relativePath": "Proposition.md"
+      },
+      {
+        "link": "Arguments",
+        "relativePath": "Arguments.md"
+      },
+      {
+        "link": "Models",
+        "displayText": "theory",
+        "relativePath": "Models.md"
+      },
+      {
+        "link": "Arguments",
+        "relativePath": "Arguments.md"
+      },
+      {
+        "link": "Models",
+        "displayText": "theories",
+        "relativePath": "Models.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Arguments",
+        "link": "Reasoning",
+        "relativePath": "Arguments.md"
+      },
+      {
+        "fileName": "Arguments",
+        "link": "Reasoning",
+        "relativePath": "Arguments.md",
+        "displayText": "reasons"
+      }
+    ]
+  },
+  {
+    "fileName": "Note Taking",
+    "relativePath": "Note Taking.md",
+    "headings": [
+      {
+        "heading": "Note Taking",
+        "level": 1
+      },
+      {
+        "heading": "The Process",
+        "level": 2
+      },
+      {
+        "heading": "1. Collecting Notes",
+        "level": 3
+      },
+      {
+        "heading": "2. Creating Notes",
+        "level": 3
+      },
+      {
+        "heading": "3. Connecting Notes",
+        "level": 3
+      },
+      {
+        "heading": "4. Reviewing Notes",
+        "level": 3
+      },
+      {
+        "heading": "5. Synthesis",
+        "level": 3
+      },
+      {
+        "heading": "Tools for Note Taking",
+        "level": 2
+      },
+      {
+        "heading": "Links for further exploration",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Mechanisms of Learning",
+        "displayText": "way to learn",
+        "relativePath": "Mechanisms of Learning.md"
+      },
+      {
+        "link": "Mesh of Understanding",
+        "relativePath": "Mesh of Understanding.md"
+      },
+      {
+        "link": "My Learning Process",
+        "relativePath": "My Learning Process.md"
+      },
+      {
+        "link": "How To Read A Book",
+        "relativePath": "How To Read A Book.md"
+      },
+      {
+        "link": "Discovery",
+        "relativePath": "Discovery.md"
+      },
+      {
+        "link": "Atomic Ideas",
+        "relativePath": "Atomic Ideas.md"
+      },
+      {
+        "link": "Teardown",
+        "relativePath": "Teardown.md"
+      },
+      {
+        "link": "My Learning Process",
+        "relativePath": "My Learning Process.md"
+      },
+      {
+        "link": "Concept",
+        "displayText": "concepts",
+        "relativePath": "Concept.md"
+      },
+      {
+        "link": "Working Resolution",
+        "relativePath": "Working Resolution.md"
+      },
+      {
+        "link": "Atomic Ideas",
+        "relativePath": "Atomic Ideas.md"
+      },
+      {
+        "link": "Translation",
+        "relativePath": "Translation.md"
+      },
+      {
+        "link": "Feynman Technique",
+        "relativePath": "Feynman Technique.md"
+      },
+      {
+        "link": "The Inbox",
+        "relativePath": "The Inbox.md"
+      },
+      {
+        "link": "Atomic Ideas",
+        "displayText": "permanote",
+        "relativePath": "Atomic Ideas.md"
+      },
+      {
+        "link": "Relationships",
+        "relativePath": "Relationships.md"
+      },
+      {
+        "link": "Atomic Ideas",
+        "displayText": "notes",
+        "relativePath": "Atomic Ideas.md"
+      },
+      {
+        "link": "Concept",
+        "displayText": "concepts",
+        "relativePath": "Concept.md"
+      },
+      {
+        "link": "Rebuild",
+        "relativePath": "Rebuild.md"
+      },
+      {
+        "link": "Atomic Ideas",
+        "relativePath": "Atomic Ideas.md"
+      },
+      {
+        "link": "Concept",
+        "relativePath": "Concept.md"
+      },
+      {
+        "link": "Relationships",
+        "relativePath": "Relationships.md"
+      },
+      {
+        "link": "Unity and Complexity",
+        "relativePath": "Unity and Complexity.md"
+      },
+      {
+        "link": "Intellectual Regurgitation",
+        "relativePath": "Intellectual Regurgitation.md"
+      },
+      {
+        "link": "Knowledge Storage",
+        "displayText": "add it into my second brain system",
+        "relativePath": "Knowledge Storage.md"
+      },
+      {
+        "link": "Relationships",
+        "relativePath": "Relationships.md"
+      },
+      {
+        "link": "Mesh of Understanding",
+        "relativePath": "Mesh of Understanding.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Translation",
+        "link": "Note Taking",
+        "relativePath": "Translation.md"
+      },
+      {
+        "fileName": "Teardown",
+        "link": "Note Taking",
+        "relativePath": "Teardown.md",
+        "displayText": "notes"
+      },
+      {
+        "fileName": "Mechanisms of Learning",
+        "link": "Note Taking",
+        "relativePath": "Mechanisms of Learning.md"
+      }
+    ]
+  },
+  {
+    "fileName": "My Learning Process",
+    "relativePath": "My Learning Process.md",
+    "headings": [
+      {
+        "heading": "My Learning Process",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Discovery",
+        "relativePath": "Discovery.md"
+      },
+      {
+        "link": "Teardown",
+        "relativePath": "Teardown.md"
+      },
+      {
+        "link": "Translation",
+        "relativePath": "Translation.md"
+      },
+      {
+        "link": "Rebuild",
+        "relativePath": "Rebuild.md"
+      },
+      {
+        "link": "Knowledge Storage",
+        "displayText": "Storage",
+        "relativePath": "Knowledge Storage.md"
+      },
+      {
+        "link": "Feynman Technique",
+        "relativePath": "Feynman Technique.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Translation",
+        "link": "My Learning Process",
+        "relativePath": "Translation.md"
+      },
+      {
+        "fileName": "The Inbox",
+        "link": "My Learning Process",
+        "relativePath": "The Inbox.md"
+      },
+      {
+        "fileName": "Unity and Complexity",
+        "link": "My Learning Process",
+        "relativePath": "Unity and Complexity.md"
+      },
+      {
+        "fileName": "Relationships",
+        "link": "My Learning Process",
+        "relativePath": "Relationships.md"
+      },
+      {
+        "fileName": "Note Taking",
+        "link": "My Learning Process",
+        "relativePath": "Note Taking.md"
+      },
+      {
+        "fileName": "Note Taking",
+        "link": "My Learning Process",
+        "relativePath": "Note Taking.md"
+      },
+      {
+        "fileName": "Learning",
+        "link": "My Learning Process",
+        "relativePath": "Learning.md"
+      },
+      {
+        "fileName": "Learning",
+        "link": "My Learning Process",
+        "relativePath": "Learning.md"
+      },
+      {
+        "fileName": "Intellectual Regurgitation",
+        "link": "My Learning Process",
+        "relativePath": "Intellectual Regurgitation.md"
+      },
+      {
+        "fileName": "Feynman Technique",
+        "link": "My Learning Process",
+        "relativePath": "Feynman Technique.md"
+      },
+      {
+        "fileName": "Atomic Ideas",
+        "link": "My Learning Process",
+        "relativePath": "Atomic Ideas.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Models",
+    "relativePath": "Models.md",
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 24
+        }
+      }
+    },
+    "aliases": [
+      "model"
+    ],
+    "headings": [
+      {
+        "heading": "Models",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Atomic Ideas",
+        "relativePath": "Atomic Ideas.md"
+      },
+      {
+        "link": "Concept",
+        "displayText": "concepts",
+        "relativePath": "Concept.md"
+      },
+      {
+        "link": "Relationships",
+        "relativePath": "Relationships.md"
+      },
+      {
+        "link": "Working Resolution",
+        "relativePath": "Working Resolution.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Reasoning",
+        "link": "Models",
+        "relativePath": "Reasoning.md",
+        "displayText": "theory"
+      },
+      {
+        "fileName": "Reasoning",
+        "link": "Models",
+        "relativePath": "Reasoning.md",
+        "displayText": "theories"
+      },
+      {
+        "fileName": "Mesh of Understanding",
+        "link": "Models",
+        "relativePath": "Mesh of Understanding.md",
+        "displayText": "models"
+      }
+    ]
+  },
+  {
+    "fileName": "Mechanisms of Learning",
+    "relativePath": "Mechanisms of Learning.md",
+    "headings": [
+      {
+        "heading": "Mechanisms of Learning",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Reading",
+        "relativePath": "Reading.md"
+      },
+      {
+        "link": "Note Taking",
+        "relativePath": "Note Taking.md"
+      },
+      {
+        "link": "Solving Problems",
+        "relativePath": "Solving Problems.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Solving Problems",
+        "link": "Mechanisms of Learning",
+        "relativePath": "Solving Problems.md",
+        "displayText": "way to learn"
+      },
+      {
+        "fileName": "Reading",
+        "link": "Mechanisms of Learning",
+        "relativePath": "Reading.md"
+      },
+      {
+        "fileName": "Note Taking",
+        "link": "Mechanisms of Learning",
+        "relativePath": "Note Taking.md",
+        "displayText": "way to learn"
+      }
+    ]
+  },
+  {
+    "fileName": "Learning",
+    "relativePath": "Learning.md",
+    "headings": [
+      {
+        "heading": "Learning",
+        "level": 2
+      },
+      {
+        "heading": "My Learning Process",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Unity and Complexity",
+        "relativePath": "Unity and Complexity.md"
+      },
+      {
+        "link": "Intellectual Regurgitation",
+        "relativePath": "Intellectual Regurgitation.md"
+      },
+      {
+        "link": "Active Consumption",
+        "relativePath": "Active Consumption.md"
+      },
+      {
+        "link": "Feynman Technique",
+        "relativePath": "Feynman Technique.md"
+      },
+      {
+        "link": "My Learning Process",
+        "relativePath": "My Learning Process.md"
+      },
+      {
+        "link": "Teardown",
+        "displayText": "tearing something down",
+        "relativePath": "Teardown.md"
+      },
+      {
+        "link": "Atomic Ideas",
+        "relativePath": "Atomic Ideas.md"
+      },
+      {
+        "link": "Translation",
+        "displayText": "translate what you've learned",
+        "relativePath": "Translation.md"
+      },
+      {
+        "link": "Knowledge Storage",
+        "displayText": "store them into new nodes",
+        "relativePath": "Knowledge Storage.md"
+      },
+      {
+        "link": "Mesh of Understanding",
+        "relativePath": "Mesh of Understanding.md"
+      },
+      {
+        "link": "My Learning Process",
+        "relativePath": "My Learning Process.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Translation",
+        "link": "Learning",
+        "relativePath": "Translation.md"
+      },
+      {
+        "fileName": "Unity and Complexity",
+        "link": "Learning",
+        "relativePath": "Unity and Complexity.md",
+        "displayText": "understand"
+      },
+      {
+        "fileName": "Relationships",
+        "link": "Learning",
+        "relativePath": "Relationships.md"
+      },
+      {
+        "fileName": "Reading",
+        "link": "Learning",
+        "relativePath": "Reading.md",
+        "displayText": "learn"
+      },
+      {
+        "fileName": "Reading",
+        "link": "Learning",
+        "relativePath": "Reading.md"
+      },
+      {
+        "fileName": "Knowledge Storage",
+        "link": "Learning",
+        "relativePath": "Knowledge Storage.md"
+      },
+      {
+        "fileName": "Criticism",
+        "link": "Learning",
+        "relativePath": "Criticism.md",
+        "displayText": "understanding"
+      },
+      {
+        "fileName": "Atomic Ideas",
+        "link": "Learning",
+        "relativePath": "Atomic Ideas.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Knowledge Storage",
+    "relativePath": "Knowledge Storage.md",
+    "headings": [
+      {
+        "heading": "Knowledge Storage",
+        "level": 1
+      },
+      {
+        "heading": "How To Store Ideas In Your Understanding Mesh",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Learning",
+        "relativePath": "Learning.md"
+      },
+      {
+        "link": "Atomic Ideas",
+        "relativePath": "Atomic Ideas.md"
+      },
+      {
+        "link": "Mesh of Understanding",
+        "relativePath": "Mesh of Understanding.md"
+      },
+      {
+        "link": "Atomic Ideas",
+        "displayText": "Atomic Idea",
+        "relativePath": "Atomic Ideas.md"
+      },
+      {
+        "link": "Concept",
+        "relativePath": "Concept.md"
+      },
+      {
+        "link": "Working Resolution",
+        "relativePath": "Working Resolution.md"
+      },
+      {
+        "link": "Mesh of Understanding",
+        "relativePath": "Mesh of Understanding.md"
+      },
+      {
+        "link": "Explosive Questions",
+        "relativePath": "Explosive Questions.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Note Taking",
+        "link": "Knowledge Storage",
+        "relativePath": "Note Taking.md",
+        "displayText": "add it into my second brain system"
+      },
+      {
+        "fileName": "My Learning Process",
+        "link": "Knowledge Storage",
+        "relativePath": "My Learning Process.md",
+        "displayText": "Storage"
+      },
+      {
+        "fileName": "Learning",
+        "link": "Knowledge Storage",
+        "relativePath": "Learning.md",
+        "displayText": "store them into new nodes"
+      },
+      {
+        "fileName": "Explosive Questions",
+        "link": "Knowledge Storage",
+        "relativePath": "Explosive Questions.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Mesh of Understanding",
+    "relativePath": "Mesh of Understanding.md",
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 23
+        }
+      }
+    },
+    "aliases": [
+      "mesh"
+    ],
+    "headings": [
+      {
+        "heading": "Mesh of Understanding",
+        "level": 1
+      },
+      {
+        "heading": "Mesh of Understanding vs. Knowledge Mesh",
+        "level": 2
+      },
+      {
+        "heading": "Using Gaps In The Mesh",
+        "level": 2
+      },
+      {
+        "heading": "Trivia",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Atomic Ideas",
+        "relativePath": "Atomic Ideas.md"
+      },
+      {
+        "link": "Relationships",
+        "relativePath": "Relationships.md"
+      },
+      {
+        "link": "brain"
+      },
+      {
+        "link": "Models",
+        "displayText": "models",
+        "relativePath": "Models.md"
+      },
+      {
+        "link": "Relationships",
+        "relativePath": "Relationships.md"
+      },
+      {
+        "link": "Atomic Ideas",
+        "relativePath": "Atomic Ideas.md"
+      },
+      {
+        "link": "Discovery",
+        "displayText": "further exploration",
+        "relativePath": "Discovery.md"
+      },
+      {
+        "link": "Working Resolution",
+        "displayText": "resolution",
+        "relativePath": "Working Resolution.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "The Inbox",
+        "link": "Mesh of Understanding",
+        "relativePath": "The Inbox.md"
+      },
+      {
+        "fileName": "Reading",
+        "link": "Mesh of Understanding",
+        "relativePath": "Reading.md"
+      },
+      {
+        "fileName": "Note Taking",
+        "link": "Mesh of Understanding",
+        "relativePath": "Note Taking.md"
+      },
+      {
+        "fileName": "Note Taking",
+        "link": "Mesh of Understanding",
+        "relativePath": "Note Taking.md"
+      },
+      {
+        "fileName": "Learning",
+        "link": "Mesh of Understanding",
+        "relativePath": "Learning.md"
+      },
+      {
+        "fileName": "Knowledge Storage",
+        "link": "Mesh of Understanding",
+        "relativePath": "Knowledge Storage.md"
+      },
+      {
+        "fileName": "Knowledge Storage",
+        "link": "Mesh of Understanding",
+        "relativePath": "Knowledge Storage.md"
+      },
+      {
+        "fileName": "Discovery",
+        "link": "Mesh of Understanding",
+        "relativePath": "Discovery.md"
+      },
+      {
+        "fileName": "Criticism",
+        "link": "Mesh of Understanding",
+        "relativePath": "Criticism.md"
+      },
+      {
+        "fileName": "Active Consumption",
+        "link": "Mesh of Understanding",
+        "relativePath": "Active Consumption.md"
+      },
+      {
+        "fileName": "Atomic Ideas",
+        "link": "Mesh of Understanding",
+        "relativePath": "Atomic Ideas.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Intellectual Regurgitation",
+    "relativePath": "Intellectual Regurgitation.md",
+    "headings": [
+      {
+        "heading": "Intellectual Regurgitation",
+        "level": 1
+      },
+      {
+        "heading": "Why does Intellectual Regurgitation happen?",
+        "level": 2
+      },
+      {
+        "heading": "How can you avoid Intellectual Regurgitation?",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "prepackaged opinions"
+      },
+      {
+        "link": "thinking required to form an opinion"
+      },
+      {
+        "link": "Signal",
+        "relativePath": "Signal.md"
+      },
+      {
+        "link": "brain"
+      },
+      {
+        "link": "My Learning Process",
+        "relativePath": "My Learning Process.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Translation",
+        "link": "Intellectual Regurgitation",
+        "relativePath": "Translation.md"
+      },
+      {
+        "fileName": "Note Taking",
+        "link": "Intellectual Regurgitation",
+        "relativePath": "Note Taking.md"
+      },
+      {
+        "fileName": "Learning",
+        "link": "Intellectual Regurgitation",
+        "relativePath": "Learning.md"
+      },
+      {
+        "fileName": "Active Consumption",
+        "link": "Intellectual Regurgitation",
+        "relativePath": "Active Consumption.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Thesis",
+    "relativePath": "Inbox/Thesis.md",
+    "headings": [
+      {
+        "heading": "Thesis",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Unity and Complexity",
+        "displayText": "unity",
+        "relativePath": "Unity and Complexity.md"
+      },
+      {
+        "link": "hypothesis"
+      },
+      {
+        "link": "concept",
+        "relativePath": "Concept.md"
+      },
+      {
+        "link": "Sales",
+        "relativePath": "Inbox/Sales.md"
+      },
+      {
+        "link": "The Big Idea",
+        "relativePath": "Inbox/The Big Idea.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "The Big Idea",
+        "link": "Thesis",
+        "relativePath": "Inbox/The Big Idea.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The PASTOR Technique",
+    "relativePath": "Inbox/The PASTOR Technique.md",
+    "headings": [
+      {
+        "heading": "The PASTOR Technique",
+        "level": 1
+      },
+      {
+        "heading": "Elements of PASTOR",
+        "level": 2
+      },
+      {
+        "heading": "P: Person, Problem & Pain.",
+        "level": 3
+      },
+      {
+        "heading": "A: Amplify & Aspirations",
+        "level": 3
+      },
+      {
+        "heading": "S: Story, Solution & System",
+        "level": 3
+      },
+      {
+        "heading": "T: Transformation & Testimony",
+        "level": 3
+      },
+      {
+        "heading": "O: Offer",
+        "level": 3
+      },
+      {
+        "heading": "R: Response",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Direct Response Copywriting"
+      },
+      {
+        "link": "Sales Letters",
+        "relativePath": "Inbox/Sales Letters.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Sales Letters",
+        "link": "The PASTOR Technique",
+        "relativePath": "Inbox/Sales Letters.md"
+      },
+      {
+        "fileName": "Sales",
+        "link": "The PASTOR Technique",
+        "relativePath": "Inbox/Sales.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Robert Cialdini",
+    "relativePath": "Inbox/Robert Cialdini.md",
+    "headings": [
+      {
+        "heading": "Robert Cialdini",
+        "level": 1
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Persuasion",
+        "link": "Robert Cialdini",
+        "relativePath": "Inbox/Persuasion.md"
+      }
+    ]
+  },
+  {
+    "fileName": "The Big Idea",
+    "relativePath": "Inbox/The Big Idea.md",
+    "headings": [
+      {
+        "heading": "The Big Idea",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Thesis",
+        "relativePath": "Inbox/Thesis.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Thesis",
+        "link": "The Big Idea",
+        "relativePath": "Inbox/Thesis.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sales Letters",
+    "relativePath": "Inbox/Sales Letters.md",
+    "headings": [
+      {
+        "heading": "Sales Letters",
+        "level": 1
+      },
+      {
+        "heading": "Parts of a Sales Letter",
+        "level": 2
+      },
+      {
+        "heading": "1. Pre-Head",
+        "level": 3
+      },
+      {
+        "heading": "2. Headline",
+        "level": 3
+      },
+      {
+        "heading": "3. Deck Copy",
+        "level": 3
+      },
+      {
+        "heading": "4. Lead",
+        "level": 3
+      },
+      {
+        "heading": "5. Body",
+        "level": 3
+      },
+      {
+        "heading": "A Note on Research",
+        "level": 4
+      },
+      {
+        "heading": "6. Subheads",
+        "level": 3
+      },
+      {
+        "heading": "7. Rapport",
+        "level": 3
+      },
+      {
+        "heading": "8. Bullets",
+        "level": 3
+      },
+      {
+        "heading": "9. Credibility",
+        "level": 3
+      },
+      {
+        "heading": "10. Testimonials",
+        "level": 3
+      },
+      {
+        "heading": "11. Value Justification",
+        "level": 3
+      },
+      {
+        "heading": "12. Risk Reversal",
+        "level": 3
+      },
+      {
+        "heading": "13. Bonuses",
+        "level": 3
+      },
+      {
+        "heading": "14. CTA or Explicit Offer",
+        "level": 3
+      },
+      {
+        "heading": "15. P.S.",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "Sales",
+        "relativePath": "Inbox/Sales.md"
+      },
+      {
+        "link": "The PASTOR Technique",
+        "relativePath": "Inbox/The PASTOR Technique.md"
+      },
+      {
+        "link": "Unity and Complexity",
+        "displayText": "gist",
+        "relativePath": "Unity and Complexity.md"
+      },
+      {
+        "link": "scan content"
+      },
+      {
+        "link": "Signal",
+        "displayText": "../Signal",
+        "relativePath": "Signal.md"
+      },
+      {
+        "link": "Proof",
+        "displayText": "../Proof",
+        "relativePath": "Proof.md"
+      },
+      {
+        "link": "Fear"
+      },
+      {
+        "link": "Proof",
+        "displayText": "../Proof",
+        "relativePath": "Proof.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "The PASTOR Technique",
+        "link": "Sales Letters",
+        "relativePath": "Inbox/The PASTOR Technique.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Sales",
+    "relativePath": "Inbox/Sales.md",
+    "headings": [
+      {
+        "heading": "Sales",
+        "level": 1
+      },
+      {
+        "heading": "Sales Techniques",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "The PASTOR Technique",
+        "relativePath": "Inbox/The PASTOR Technique.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Thesis",
+        "link": "Sales",
+        "relativePath": "Inbox/Thesis.md"
+      },
+      {
+        "fileName": "Sales Letters",
+        "link": "Sales",
+        "relativePath": "Inbox/Sales Letters.md"
+      },
+      {
+        "fileName": "Persuasion",
+        "link": "Sales",
+        "relativePath": "Inbox/Persuasion.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Scratch",
+    "relativePath": "Inbox/Scratch.md"
+  },
+  {
+    "fileName": "Guide",
+    "relativePath": "Inbox/Guide.md",
+    "backlinks": [
+      {
+        "fileName": "Discovery",
+        "link": "Guide",
+        "relativePath": "Discovery.md",
+        "displayText": "Inbox/Guide"
+      }
+    ]
+  },
+  {
+    "fileName": "Persuasion",
+    "relativePath": "Inbox/Persuasion.md",
+    "headings": [
+      {
+        "heading": "Persuasion",
+        "level": 1
+      },
+      {
+        "heading": "Techniques of Persuasion",
+        "level": 2
+      },
+      {
+        "heading": "Using Because",
+        "level": 3
+      }
+    ],
+    "links": [
+      {
+        "link": "worldview"
+      },
+      {
+        "link": "Persuasion",
+        "relativePath": "Inbox/Persuasion.md"
+      },
+      {
+        "link": "Influence"
+      },
+      {
+        "link": "Sales",
+        "relativePath": "Inbox/Sales.md"
+      },
+      {
+        "link": "Robert Cialdini",
+        "relativePath": "Inbox/Robert Cialdini.md"
+      },
+      {
+        "link": "Proof",
+        "displayText": "../Proof",
+        "relativePath": "Proof.md"
+      },
+      {
+        "link": "Proposition",
+        "displayText": "../Proposition",
+        "relativePath": "Proposition.md"
+      },
+      {
+        "link": "Arguments",
+        "displayText": "../Arguments",
+        "relativePath": "Arguments.md"
+      }
+    ]
+  },
+  {
+    "fileName": "How To Read A Book",
+    "relativePath": "How To Read A Book.md",
+    "headings": [
+      {
+        "heading": "How To Read A Book",
+        "level": 1
+      },
+      {
+        "heading": "Rules of Reading",
+        "level": 2
+      },
+      {
+        "heading": "Stage 1: What Is the Book About as a Whole?",
+        "level": 3
+      },
+      {
+        "heading": "Stage 2: What Is Being Said in Detail, and How?",
+        "level": 3
+      },
+      {
+        "heading": "Stage 3: Is It True? What of It?",
+        "level": 3
+      },
+      {
+        "heading": "Intellectual Etiquette",
+        "level": 4
+      },
+      {
+        "heading": "How To Criticize",
+        "level": 4
+      }
+    ],
+    "links": [
+      {
+        "link": "Reading",
+        "relativePath": "Reading.md"
+      },
+      {
+        "link": "Unity and Complexity",
+        "displayText": "the forest & the trees",
+        "relativePath": "Unity and Complexity.md"
+      },
+      {
+        "link": "Active Consumption",
+        "displayText": "conversation with the book",
+        "relativePath": "Active Consumption.md"
+      },
+      {
+        "link": "Explosive Questions",
+        "relativePath": "Explosive Questions.md"
+      },
+      {
+        "link": "Working Resolution",
+        "relativePath": "Working Resolution.md"
+      },
+      {
+        "link": "Unity and Complexity",
+        "displayText": "the unity",
+        "relativePath": "Unity and Complexity.md"
+      },
+      {
+        "link": "Teardown",
+        "displayText": "tearing down the book",
+        "relativePath": "Teardown.md"
+      },
+      {
+        "link": "Unity and Complexity",
+        "displayText": "constituent concepts",
+        "relativePath": "Unity and Complexity.md"
+      },
+      {
+        "link": "Solving Problems",
+        "displayText": "trying to solve",
+        "relativePath": "Solving Problems.md"
+      },
+      {
+        "link": "Arguments",
+        "relativePath": "Arguments.md"
+      },
+      {
+        "link": "Criticism",
+        "relativePath": "Criticism.md"
+      },
+      {
+        "link": "Translation",
+        "displayText": "translated",
+        "relativePath": "Translation.md"
+      },
+      {
+        "link": "thinking required to form an opinion",
+        "displayText": "do it with reason"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Reading",
+        "link": "How To Read A Book",
+        "relativePath": "Reading.md"
+      },
+      {
+        "fileName": "Note Taking",
+        "link": "How To Read A Book",
+        "relativePath": "Note Taking.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Flow",
+    "relativePath": "Flow.md",
+    "headings": [
+      {
+        "heading": "Flow",
+        "level": 1
+      },
+      {
+        "heading": "Flow & Experience",
+        "level": 2
+      },
+      {
+        "heading": "Trivia",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Game Design"
+      },
+      {
+        "link": "Experience"
+      }
+    ]
+  },
+  {
+    "fileName": "Feynman Technique",
+    "relativePath": "Feynman Technique.md",
+    "headings": [
+      {
+        "heading": "Feynman Technique",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Unity and Complexity",
+        "displayText": "something fully",
+        "relativePath": "Unity and Complexity.md"
+      },
+      {
+        "link": "My Learning Process",
+        "relativePath": "My Learning Process.md"
+      },
+      {
+        "link": "Discovery",
+        "relativePath": "Discovery.md"
+      },
+      {
+        "link": "Translation",
+        "relativePath": "Translation.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Note Taking",
+        "link": "Feynman Technique",
+        "relativePath": "Note Taking.md"
+      },
+      {
+        "fileName": "My Learning Process",
+        "link": "Feynman Technique",
+        "relativePath": "My Learning Process.md"
+      },
+      {
+        "fileName": "Learning",
+        "link": "Feynman Technique",
+        "relativePath": "Learning.md"
+      },
+      {
+        "fileName": "ELI5",
+        "link": "Feynman Technique",
+        "relativePath": "ELI5.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Explosive Questions",
+    "relativePath": "Explosive Questions.md",
+    "headings": [
+      {
+        "heading": "Explosive Questions",
+        "level": 1
+      },
+      {
+        "heading": "The 6 Horsemen",
+        "level": 2
+      },
+      {
+        "heading": "Trivia",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Knowledge Storage",
+        "relativePath": "Knowledge Storage.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Knowledge Storage",
+        "link": "Explosive Questions",
+        "relativePath": "Knowledge Storage.md"
+      },
+      {
+        "fileName": "How To Read A Book",
+        "link": "Explosive Questions",
+        "relativePath": "How To Read A Book.md"
+      },
+      {
+        "fileName": "Active Consumption",
+        "link": "Explosive Questions",
+        "relativePath": "Active Consumption.md"
+      }
+    ]
+  },
+  {
+    "fileName": "ELI5",
+    "relativePath": "ELI5.md",
+    "headings": [
+      {
+        "heading": "ELI5",
+        "level": 1
+      },
+      {
+        "heading": "Trivia",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Feynman Technique",
+        "relativePath": "Feynman Technique.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Discovery",
+    "relativePath": "Discovery.md",
+    "headings": [
+      {
+        "heading": "Discovery",
+        "level": 1
+      },
+      {
+        "heading": "Types of Discovery",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Guide",
+        "displayText": "Inbox/Guide",
+        "relativePath": "Inbox/Guide.md"
+      },
+      {
+        "link": "Working Resolution",
+        "displayText": "resolution",
+        "relativePath": "Working Resolution.md"
+      },
+      {
+        "link": "Mesh of Understanding",
+        "relativePath": "Mesh of Understanding.md"
+      },
+      {
+        "link": "Reading",
+        "relativePath": "Reading.md"
+      },
+      {
+        "link": "Teardown",
+        "relativePath": "Teardown.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Solving Problems",
+        "link": "Discovery",
+        "relativePath": "Solving Problems.md",
+        "displayText": "aided or unaided discovery"
+      },
+      {
+        "fileName": "Rebuild",
+        "link": "Discovery",
+        "relativePath": "Rebuild.md"
+      },
+      {
+        "fileName": "Reading",
+        "link": "Discovery",
+        "relativePath": "Reading.md",
+        "displayText": "discover"
+      },
+      {
+        "fileName": "Note Taking",
+        "link": "Discovery",
+        "relativePath": "Note Taking.md"
+      },
+      {
+        "fileName": "My Learning Process",
+        "link": "Discovery",
+        "relativePath": "My Learning Process.md"
+      },
+      {
+        "fileName": "Mesh of Understanding",
+        "link": "Discovery",
+        "relativePath": "Mesh of Understanding.md",
+        "displayText": "further exploration"
+      },
+      {
+        "fileName": "Feynman Technique",
+        "link": "Discovery",
+        "relativePath": "Feynman Technique.md"
+      },
+      {
+        "fileName": "Criticism",
+        "link": "Discovery",
+        "relativePath": "Criticism.md",
+        "displayText": "discovered"
+      }
+    ]
+  },
+  {
+    "fileName": "Concept",
+    "relativePath": "Concept.md",
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 46
+        }
+      }
+    },
+    "aliases": [
+      "concepts",
+      "concept",
+      "Concepts"
+    ],
+    "headings": [
+      {
+        "heading": "Concept",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Atomic Ideas",
+        "displayText": "many ideas",
+        "relativePath": "Atomic Ideas.md"
+      },
+      {
+        "link": "Relationships",
+        "relativePath": "Relationships.md"
+      },
+      {
+        "link": "Working Resolution",
+        "relativePath": "Working Resolution.md"
+      },
+      {
+        "link": "Atomic Ideas",
+        "relativePath": "Atomic Ideas.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Translation",
+        "link": "Concept",
+        "relativePath": "Translation.md"
+      },
+      {
+        "fileName": "Translation",
+        "link": "Concept",
+        "relativePath": "Translation.md",
+        "displayText": "concepts"
+      },
+      {
+        "fileName": "Working Resolution",
+        "link": "Concept",
+        "relativePath": "Working Resolution.md"
+      },
+      {
+        "fileName": "Unity and Complexity",
+        "link": "Concept",
+        "relativePath": "Unity and Complexity.md"
+      },
+      {
+        "fileName": "Relationships",
+        "link": "Concept",
+        "relativePath": "Relationships.md"
+      },
+      {
+        "fileName": "Rebuild",
+        "link": "Concept",
+        "relativePath": "Rebuild.md"
+      },
+      {
+        "fileName": "Note Taking",
+        "link": "Concept",
+        "relativePath": "Note Taking.md",
+        "displayText": "concepts"
+      },
+      {
+        "fileName": "Note Taking",
+        "link": "Concept",
+        "relativePath": "Note Taking.md",
+        "displayText": "concepts"
+      },
+      {
+        "fileName": "Note Taking",
+        "link": "Concept",
+        "relativePath": "Note Taking.md"
+      },
+      {
+        "fileName": "Models",
+        "link": "Concept",
+        "relativePath": "Models.md",
+        "displayText": "concepts"
+      },
+      {
+        "fileName": "Knowledge Storage",
+        "link": "Concept",
+        "relativePath": "Knowledge Storage.md"
+      },
+      {
+        "fileName": "Thesis",
+        "link": "concept",
+        "relativePath": "Inbox/Thesis.md"
+      },
+      {
+        "fileName": "Criticism",
+        "link": "Concept",
+        "relativePath": "Criticism.md"
+      },
+      {
+        "fileName": "Atomic Ideas",
+        "link": "Concept",
+        "relativePath": "Atomic Ideas.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Axioms",
+    "relativePath": "Axioms.md",
+    "headings": [
+      {
+        "heading": "Axiom",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Proposition",
+        "relativePath": "Proposition.md"
+      },
+      {
+        "link": "Proof",
+        "relativePath": "Proof.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Proof",
+        "link": "Axioms",
+        "relativePath": "Proof.md"
+      },
+      {
+        "fileName": "Assumptions",
+        "link": "Axioms",
+        "relativePath": "Assumptions.md",
+        "displayText": "Axiom"
+      },
+      {
+        "fileName": "Arguments",
+        "link": "Axioms",
+        "relativePath": "Arguments.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Criticism",
+    "relativePath": "Criticism.md",
+    "headings": [
+      {
+        "heading": "Criticism",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Learning",
+        "displayText": "understanding",
+        "relativePath": "Learning.md"
+      },
+      {
+        "link": "Relationships",
+        "displayText": "relationship",
+        "relativePath": "Relationships.md"
+      },
+      {
+        "link": "Discovery",
+        "displayText": "discovered",
+        "relativePath": "Discovery.md"
+      },
+      {
+        "link": "Atomic Ideas",
+        "displayText": "idea",
+        "relativePath": "Atomic Ideas.md"
+      },
+      {
+        "link": "Concept",
+        "relativePath": "Concept.md"
+      },
+      {
+        "link": "Mesh of Understanding",
+        "relativePath": "Mesh of Understanding.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "How To Read A Book",
+        "link": "Criticism",
+        "relativePath": "How To Read A Book.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Assumptions",
+    "relativePath": "Assumptions.md",
+    "headings": [
+      {
+        "heading": "Assumptions",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Axioms",
+        "displayText": "Axiom",
+        "relativePath": "Axioms.md"
+      },
+      {
+        "link": "Proposition",
+        "relativePath": "Proposition.md"
+      },
+      {
+        "link": "Proof",
+        "relativePath": "Proof.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Proof",
+        "link": "Assumptions",
+        "relativePath": "Proof.md"
+      },
+      {
+        "fileName": "Arguments",
+        "link": "Assumptions",
+        "relativePath": "Arguments.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Arguments",
+    "relativePath": "Arguments.md",
+    "headings": [
+      {
+        "heading": "Arguments",
+        "level": 1
+      }
+    ],
+    "links": [
+      {
+        "link": "Reasoning",
+        "relativePath": "Reasoning.md"
+      },
+      {
+        "link": "Reasoning",
+        "displayText": "reasons",
+        "relativePath": "Reasoning.md"
+      },
+      {
+        "link": "Proposition",
+        "relativePath": "Proposition.md"
+      },
+      {
+        "link": "Assumptions",
+        "relativePath": "Assumptions.md"
+      },
+      {
+        "link": "Axioms",
+        "relativePath": "Axioms.md"
+      },
+      {
+        "link": "Proposition",
+        "displayText": "propositions",
+        "relativePath": "Proposition.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Reasoning",
+        "link": "Arguments",
+        "relativePath": "Reasoning.md"
+      },
+      {
+        "fileName": "Reasoning",
+        "link": "Arguments",
+        "relativePath": "Reasoning.md"
+      },
+      {
+        "fileName": "Reasoning",
+        "link": "Arguments",
+        "relativePath": "Reasoning.md"
+      },
+      {
+        "fileName": "Persuasion",
+        "link": "Arguments",
+        "relativePath": "Inbox/Persuasion.md",
+        "displayText": "../Arguments"
+      },
+      {
+        "fileName": "How To Read A Book",
+        "link": "Arguments",
+        "relativePath": "How To Read A Book.md"
+      }
+    ]
+  },
+  {
+    "fileName": "Active Consumption",
+    "relativePath": "Active Consumption.md",
+    "headings": [
+      {
+        "heading": "Active Consumption",
+        "level": 1
+      },
+      {
+        "heading": "How To Consume Actively",
+        "level": 2
+      },
+      {
+        "heading": "Why Bother With Active Consumption?",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Teardown",
+        "displayText": "rip it apart",
+        "relativePath": "Teardown.md"
+      },
+      {
+        "link": "Rebuild",
+        "displayText": "put it back together",
+        "relativePath": "Rebuild.md"
+      },
+      {
+        "link": "Explosive Questions",
+        "relativePath": "Explosive Questions.md"
+      },
+      {
+        "link": "Atomic Ideas",
+        "relativePath": "Atomic Ideas.md"
+      },
+      {
+        "link": "Mesh of Understanding",
+        "relativePath": "Mesh of Understanding.md"
+      },
+      {
+        "link": "Relationships",
+        "displayText": "relationships",
+        "relativePath": "Relationships.md"
+      },
+      {
+        "link": "Intellectual Regurgitation",
+        "relativePath": "Intellectual Regurgitation.md"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Reading",
+        "link": "Active Consumption",
+        "relativePath": "Reading.md",
+        "displayText": "actively you consume"
+      },
+      {
+        "fileName": "Learning",
+        "link": "Active Consumption",
+        "relativePath": "Learning.md"
+      },
+      {
+        "fileName": "How To Read A Book",
+        "link": "Active Consumption",
+        "relativePath": "How To Read A Book.md",
+        "displayText": "conversation with the book"
+      }
+    ]
+  },
+  {
+    "fileName": "Atomic Ideas",
+    "relativePath": "Atomic Ideas.md",
+    "frontmatter": {
+      "position": {
+        "start": {
+          "line": 0,
+          "col": 0,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "col": 3,
+          "offset": 54
+        }
+      }
+    },
+    "aliases": [
+      "note",
+      "node",
+      "nodes",
+      "notes",
+      "permanote"
+    ],
+    "headings": [
+      {
+        "heading": "Atomic Ideas",
+        "level": 1
+      },
+      {
+        "heading": "To Explore",
+        "level": 2
+      }
+    ],
+    "links": [
+      {
+        "link": "Learning",
+        "relativePath": "Learning.md"
+      },
+      {
+        "link": "My Learning Process",
+        "relativePath": "My Learning Process.md"
+      },
+      {
+        "link": ".md",
+        "displayText": "Atomic Ideas"
+      },
+      {
+        "link": "Translation",
+        "relativePath": "Translation.md"
+      },
+      {
+        "link": "Rebuild",
+        "relativePath": "Rebuild.md"
+      },
+      {
+        "link": "Relationships",
+        "relativePath": "Relationships.md"
+      },
+      {
+        "link": "Concept",
+        "relativePath": "Concept.md"
+      },
+      {
+        "link": "Mesh of Understanding",
+        "relativePath": "Mesh of Understanding.md"
+      },
+      {
+        "link": "Working Resolution",
+        "relativePath": "Working Resolution.md"
+      },
+      {
+        "link": ".md",
+        "displayText": "Atomic Ideas"
+      }
+    ],
+    "backlinks": [
+      {
+        "fileName": "Translation",
+        "link": "Atomic Ideas",
+        "relativePath": "Translation.md"
+      },
+      {
+        "fileName": "Unity and Complexity",
+        "link": "Atomic Ideas",
+        "relativePath": "Unity and Complexity.md"
+      },
+      {
+        "fileName": "Teardown",
+        "link": "Atomic Ideas",
+        "relativePath": "Teardown.md"
+      },
+      {
+        "fileName": "Relationships",
+        "link": "Atomic Ideas",
+        "relativePath": "Relationships.md"
+      },
+      {
+        "fileName": "Relationships",
+        "link": "Atomic Ideas",
+        "relativePath": "Relationships.md"
+      },
+      {
+        "fileName": "Rebuild",
+        "link": "Atomic Ideas",
+        "relativePath": "Rebuild.md"
+      },
+      {
+        "fileName": "Rebuild",
+        "link": "Atomic Ideas",
+        "relativePath": "Rebuild.md",
+        "displayText": "nodes"
+      },
+      {
+        "fileName": "Note Taking",
+        "link": "Atomic Ideas",
+        "relativePath": "Note Taking.md"
+      },
+      {
+        "fileName": "Note Taking",
+        "link": "Atomic Ideas",
+        "relativePath": "Note Taking.md"
+      },
+      {
+        "fileName": "Note Taking",
+        "link": "Atomic Ideas",
+        "relativePath": "Note Taking.md",
+        "displayText": "permanote"
+      },
+      {
+        "fileName": "Note Taking",
+        "link": "Atomic Ideas",
+        "relativePath": "Note Taking.md",
+        "displayText": "notes"
+      },
+      {
+        "fileName": "Note Taking",
+        "link": "Atomic Ideas",
+        "relativePath": "Note Taking.md"
+      },
+      {
+        "fileName": "Models",
+        "link": "Atomic Ideas",
+        "relativePath": "Models.md"
+      },
+      {
+        "fileName": "Learning",
+        "link": "Atomic Ideas",
+        "relativePath": "Learning.md"
+      },
+      {
+        "fileName": "Knowledge Storage",
+        "link": "Atomic Ideas",
+        "relativePath": "Knowledge Storage.md"
+      },
+      {
+        "fileName": "Knowledge Storage",
+        "link": "Atomic Ideas",
+        "relativePath": "Knowledge Storage.md",
+        "displayText": "Atomic Idea"
+      },
+      {
+        "fileName": "Mesh of Understanding",
+        "link": "Atomic Ideas",
+        "relativePath": "Mesh of Understanding.md"
+      },
+      {
+        "fileName": "Mesh of Understanding",
+        "link": "Atomic Ideas",
+        "relativePath": "Mesh of Understanding.md"
+      },
+      {
+        "fileName": "Concept",
+        "link": "Atomic Ideas",
+        "relativePath": "Concept.md",
+        "displayText": "many ideas"
+      },
+      {
+        "fileName": "Concept",
+        "link": "Atomic Ideas",
+        "relativePath": "Concept.md"
+      },
+      {
+        "fileName": "Criticism",
+        "link": "Atomic Ideas",
+        "relativePath": "Criticism.md",
+        "displayText": "idea"
+      },
+      {
+        "fileName": "Active Consumption",
+        "link": "Atomic Ideas",
+        "relativePath": "Active Consumption.md"
+      }
+    ]
+  }
+]
