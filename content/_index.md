@@ -15,7 +15,7 @@ Apart from these answers, there will be tangents that I find interesting, giving
 A few pointers:
 - The notes are written for me. The detail depends on my preferred [Working Resoultion](Working%20Resoultion.md) or interest in the topic.
 - The notes will change over time.
-- Some of you may prefer to see my [Areas of Exploration](Areas%20of%20Exploration.md)
+- Some of you may prefer to see my [Areas of Exploration](Areas%20of%20Exploration.md), my [Note Taking](Note%20Taking.md) process, [My Learning Process](My%20Learning%20Process.md) or the concept of [Learning](Learning.md).
 
 If you want to reach me, hit me up on [Twitter](https://twitter.com/arvindhsundar).
 

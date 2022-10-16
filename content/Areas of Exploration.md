@@ -26,6 +26,9 @@ These are the areas I'm planning to explore in [Hacking Attention](https://hacki
 - Cold Email Marketing
 - Influencers
 - Negotiation Specialists
-- Learning Design
+- [Learning](Learning.md)
 - Makeup Artists
 - Sale
+
+> [!Open Questions]
+> What other areas can be used for exploring attention manipulation?
