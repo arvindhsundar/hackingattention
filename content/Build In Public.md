@@ -18,8 +18,15 @@ The key principles here are:
 9. Project your personality.
 10. Build trust.
 
+Types of updates that make for good build in public content are:
+- Open ended questions where you seek help from your audience.
+- Sharing works in progress
+- Sharing behind the scenes stuff
+- Showing the thought process behind decisions
+- Sharing data about your efforts
+- Sharing what you learned
 
-Trivia: Omakase is a great example of a build in public experience.
+Trivia: Omakase is a great example of a build in public experience as the chefs interact with the people they're making food for.
 
 
 >[!Open Questions]
