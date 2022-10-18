@@ -4,6 +4,8 @@ title: "Build In Public"
 
 Build In Public is a movement where you are open and vulnerable as you learn and/or create something in public.
 
+The predominant tone of this style of content marketing is that of you chatting with your classmates and friends.
+
 The key principles here are: 
 1. Show your work.
 2. Adopt a learner's mindset, not an expert lens.
