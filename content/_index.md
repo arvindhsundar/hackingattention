@@ -24,3 +24,5 @@ With love from Bengaluru, this is Arvindh saying over and out.
 [[Signal to Noise Ratio]]
 
 [[testing]]
+
+[[testing wiht absolute links]]
